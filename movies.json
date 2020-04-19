@@ -31,5 +31,16 @@
         "dl": "https://bit.ly/3boSf0e"
       }
     ]
+  },
+  {
+    "name": "The Grudge(2020)",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjY3NWZmOTktMmVhZi00M2Q1LTg2MmQtOGE2NmE3MWNlZjY3XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_QL50_SY1000_CR0,0,675,1000_AL_.jpg",
+    "links": [
+      {
+        "quality": "720p",
+        "size": "705 MB",
+        "dl": "https://bit.ly/3euXzB0"
+      }
+    ]
   }
 ]
