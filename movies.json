@@ -1,15 +1,4 @@
-[
-  {
-    "name": "Parasite",
-    "image": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
-    "links": [
-      {
-        "quality": "1080p",
-        "size": "1.6 GB",
-        "dl": "https://www.googleapis.com/drive/v3/files/1dAoHZ0z4x6sLeiEBa1WleEI5hmmcmO6T?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-      }
-    ]
-  },
+[  
   {
     "name": "Angrezi Medium",
     "image": "https://m.media-amazon.com/images/M/MV5BNjlkZjBjZmUtNjZjNS00ODlkLWIzODYtODY0NmViN2E0MjIxXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL50_SY1000_CR0,0,692,1000_AL_.jpg",
@@ -40,6 +29,17 @@
         "quality": "720p",
         "size": "705 MB",
         "dl": "https://www.googleapis.com/drive/v3/files/1F3mXz0N4AO7IXHJ5fPCnU-v_Ia8JrJrT?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+      }
+    ]
+  },
+  {
+    "name": "Parasite",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
+    "links": [
+      {
+        "quality": "1080p",
+        "size": "1.6 GB",
+        "dl": "https://www.googleapis.com/drive/v3/files/1dAoHZ0z4x6sLeiEBa1WleEI5hmmcmO6T?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
       }
     ]
   }
