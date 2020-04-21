@@ -11,7 +11,7 @@
       ]
     },
     {
-        "name": "Shubh Mangal zyada Savdhan",
+        "name": "Shubh Mangal zyaada Savdhan",
         "image": "https://m.media-amazon.com/images/M/MV5BMTNhOWM4Y2MtZDhjNC00ZTZmLWJkMDUtNGE4Nzg2MzhmMzY0XkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_QL50_SY1000_SX800_AL_.jpg",
         "links": [
           {
@@ -53,6 +53,18 @@
           "dl": "https://www.googleapis.com/drive/v3/files/1dAoHZ0z4x6sLeiEBa1WleEI5hmmcmO6T?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
         }
       ]
-    }
+    },
+    {
+        "name": "Mardaani 2",
+        "image": "https://m.media-amazon.com/images/M/MV5BNWZhYTc4M2ItNDc3NS00NjIxLWEzNWMtZWIyNDgzMmUwZWM3XkEyXkFqcGdeQXVyMTkzOTcxOTg@._V1_QL50_SY1000_CR0,0,744,1000_AL_.jpg",
+        "links": [
+          {
+            "quality": "720p",
+            "size": "984 MB",
+            "dl": "https://bit.ly/34QYEPf"
+          }
+        ]
+      }
+
     
   ]
