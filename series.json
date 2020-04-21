@@ -1,97 +1,97 @@
 [
-  {
-    "name": "Asur",
-    "image": "https://m.media-amazon.com/images/M/MV5BZWJiMDZmNTAtZDg5YS00NDgyLThkMzctYTczZjllNzU0YWY5XkEyXkFqcGdeQXVyMTAwMDI3ODEw._V1_QL50_SY1000_CR0,0,520,1000_AL_.jpg",
-    "seasons":
-    [
-        {
-          "seasonno": "1",
-          "episodes": 
-          [
+    {
+        "name": "Panchayat",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTllYzQ0MzctZTI4Ny00YTE2LTkzYjktMTc4ZWE2MDUxNzk2XkEyXkFqcGdeQXVyNzEyNTM4MTU@._V1_QL50_SY1000_SX675_AL_.jpg",
+        "seasons":
+        [
             {
-              "episodeno": "1",
-              "links": [
+              "seasonno": "1",
+              "episodes": 
+              [
                 {
-                  "quality": "720p",
-                  "size": "390 MB",
-                  "dl": "https://bit.ly/34QyH2h"
-                }
-              ]
-            },
-            {
-              "episodeno": "2",
-              "links": [
+                  "episodeno": "1",
+                  "links": [
+                    {
+                      "quality": "720p",
+                      "size": "371 MB",
+                      "dl": " https://bit.ly/2RQp6mI"
+                    }
+                  ]
+                },
                 {
-                  "quality": "720p",
-                  "size": "399 MB",
-                  "dl": "https://bit.ly/2yzj5E0"
-                }
-              ]
-            },
-            {
-              "episodeno": "3",
-              "links": [
+                  "episodeno": "2",
+                  "links": [
+                    {
+                      "quality": "720p",
+                      "size": "251 MB",
+                      "dl": "https://bit.ly/2Y3Ju83"
+                    }
+                  ]
+                },
                 {
-                  "quality": "720p",
-                  "size": "305 MB",
-                  "dl": "https://bit.ly/2VmP2so"
-                }
-              ]
-            },
-            {
-              "episodeno": "4",
-              "links": [
+                  "episodeno": "3",
+                  "links": [
+                    {
+                      "quality": "720p",
+                      "size": "271 MB",
+                      "dl": "https://bit.ly/2RTDkDc"
+                    }
+                  ]
+                },
                 {
-                  "quality": "720p",
-                  "size": "310 MB",
-                  "dl": "https://bit.ly/3eG0NS8"
-                }
-              ]
-            },
-            {
-              "episodeno": "5",
-              "links": [
+                  "episodeno": "4",
+                  "links": [
+                    {
+                      "quality": "720p",
+                      "size": "238 MB",
+                      "dl": "https://bit.ly/3aomNOb"
+                    }
+                  ]
+                },
                 {
-                  "quality": "720p",
-                  "size": "314 MB",
-                  "dl": "https://bit.ly/3bvKPIE"
-                }
-              ]
-            },
-            {
-              "episodeno": "6",
-              "links": [
+                  "episodeno": "5",
+                  "links": [
+                    {
+                      "quality": "720p",
+                      "size": "269 MB",
+                      "dl": "https://bit.ly/2ys5gYa"
+                    }
+                  ]
+                },
                 {
-                  "quality": "720p",
-                  "size": "324 MB",
-                  "dl": "https://bit.ly/2XS5u5m"
-                }
-              ]
-            },
-            {
-              "episodeno": "7",
-              "links": [
+                  "episodeno": "6",
+                  "links": [
+                    {
+                      "quality": "720p",
+                      "size": "270 MB",
+                      "dl": "https://bit.ly/34SlJ3T"
+                    }
+                  ]
+                },
                 {
-                  "quality": "720p",
-                  "size": "347 MB",
-                  "dl": "https://bit.ly/3aq3kNh"
-                }
-              ]
-            },
-            {
-              "episodeno": "8",
-              "links": [
+                  "episodeno": "7",
+                  "links": [
+                    {
+                      "quality": "720p",
+                      "size": "232 MB",
+                      "dl": "https://bit.ly/3cy6TSU"
+                    }
+                  ]
+                },
                 {
-                  "quality": "720p",
-                  "size": "518 MB",
-                  "dl": "https://bit.ly/2XSJGXm"
+                  "episodeno": "8",
+                  "links": [
+                    {
+                      "quality": "720p",
+                      "size": "369 MB",
+                      "dl": "https://bit.ly/3cDktEH"
+                    }
+                  ]
                 }
               ]
             }
-          ]
-        }
-    ]
-  },
+        ]
+      },
   {
     "name": "Money Heist",
     "image": "https://m.media-amazon.com/images/M/MV5BZDcxOGI0MDYtNTc5NS00NDUzLWFkOTItNDIxZjI0OTllNTljXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
@@ -184,5 +184,99 @@
           ]
         }
     ]
+  },
+  {
+    "name": "Asur",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWJiMDZmNTAtZDg5YS00NDgyLThkMzctYTczZjllNzU0YWY5XkEyXkFqcGdeQXVyMTAwMDI3ODEw._V1_QL50_SY1000_CR0,0,520,1000_AL_.jpg",
+    "seasons":
+    [
+        {
+          "seasonno": "1",
+          "episodes": 
+          [
+            {
+              "episodeno": "1",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "390 MB",
+                  "dl": "https://bit.ly/34QyH2h"
+                }
+              ]
+            },
+            {
+              "episodeno": "2",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "399 MB",
+                  "dl": "https://bit.ly/2yzj5E0"
+                }
+              ]
+            },
+            {
+              "episodeno": "3",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "305 MB",
+                  "dl": "https://bit.ly/2VmP2so"
+                }
+              ]
+            },
+            {
+              "episodeno": "4",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "310 MB",
+                  "dl": "https://bit.ly/3eG0NS8"
+                }
+              ]
+            },
+            {
+              "episodeno": "5",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "314 MB",
+                  "dl": "https://bit.ly/3bvKPIE"
+                }
+              ]
+            },
+            {
+              "episodeno": "6",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "324 MB",
+                  "dl": "https://bit.ly/2XS5u5m"
+                }
+              ]
+            },
+            {
+              "episodeno": "7",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "347 MB",
+                  "dl": "https://bit.ly/3aq3kNh"
+                }
+              ]
+            },
+            {
+              "episodeno": "8",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "518 MB",
+                  "dl": "https://bit.ly/2XSJGXm"
+                }
+              ]
+            }
+          ]
+        }
+    ]
   }
+
 ]
