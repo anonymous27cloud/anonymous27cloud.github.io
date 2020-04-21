@@ -91,5 +91,98 @@
           ]
         }
     ]
+  },
+  {
+    "name": "Money Heist",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDcxOGI0MDYtNTc5NS00NDUzLWFkOTItNDIxZjI0OTllNTljXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
+    "seasons":
+    [
+        {
+          "seasonno": "4",
+          "episodes": 
+          [
+            {
+              "episodeno": "1",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "415 MB",
+                  "dl": " https://bit.ly/3avHzf3"
+                }
+              ]
+            },
+            {
+              "episodeno": "2",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "415 MB",
+                  "dl": "https://bit.ly/3bptn8D"
+                }
+              ]
+            },
+            {
+              "episodeno": "3",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "593 MB",
+                  "dl": "https://bit.ly/2VDwxP6"
+                }
+              ]
+            },
+            {
+              "episodeno": "4",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "780 MB",
+                  "dl": "https://bit.ly/3eDgs4L"
+                }
+              ]
+            },
+            {
+              "episodeno": "5",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "314 MB",
+                  "dl": "https://bit.ly/3bvKPIE"
+                }
+              ]
+            },
+            {
+              "episodeno": "6",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "324 MB",
+                  "dl": "https://bit.ly/2XS5u5m"
+                }
+              ]
+            },
+            {
+              "episodeno": "7",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "347 MB",
+                  "dl": "https://bit.ly/3aq3kNh"
+                }
+              ]
+            },
+            {
+              "episodeno": "8",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "518 MB",
+                  "dl": "https://bit.ly/2XSJGXm"
+                }
+              ]
+            }
+          ]
+        }
+    ]
   }
 ]
