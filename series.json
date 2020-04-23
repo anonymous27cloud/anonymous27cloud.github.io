@@ -1,4 +1,107 @@
-[
+[  
+  {
+    "name": "Mirzapur",
+    "image": "https://m.media-amazon.com/images/M/MV5BMWUyYWNiODItNjdmNS00ZDhlLWE0YjQtNGEyMDg3ODJiMTM3XkEyXkFqcGdeQXVyODQ5NDUwMDk@._V1_QL50_.jpg",
+    "seasons":
+    [
+        {
+          "seasonno": "1",
+          "episodes": 
+          [
+            {
+              "episodeno": "1",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "1 GB",
+                  "dl": "https://www.googleapis.com/drive/v3/files/1gxuUq_xVwKTBb3s2NPIBMRLGjMalKKcy?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+                }
+              ]
+            },
+            {
+              "episodeno": "2",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "884 MB",
+                  "dl": "https://www.googleapis.com/drive/v3/files/1JzFovb0WPQtQIrFhx44CJ1xlRup7hOkP?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+                }
+              ]
+            },
+            {
+              "episodeno": "3",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "962 MB",
+                  "dl": "https://www.googleapis.com/drive/v3/files/1IHuom4YGKe2Dd_MltgrFDLxnP81zvLws?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+                }
+              ]
+            },
+            {
+              "episodeno": "4",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "894 MB",
+                  "dl": "https://www.googleapis.com/drive/v3/files/1EfQD_FmkhokvbPSaNVmOJv3C5kW1J-iV?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+                }
+              ]
+            },
+            {
+              "episodeno": "5",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "1 GB",
+                  "dl": "https://www.googleapis.com/drive/v3/files/1jwmHWka0sYniVKTIJ-kzkIkSMZzR82s3?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+                }
+              ]
+            },
+            {
+              "episodeno": "6",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "992 MB",
+                  "dl": "https://www.googleapis.com/drive/v3/files/1pIUV4QdlgcFgEcT6tnVHIEK9RV-CAUoT?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+                }
+              ]
+            },
+            {
+              "episodeno": "7",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "1 GB",
+                  "dl": "https://www.googleapis.com/drive/v3/files/1xmt0uFmd58eLLHsSTwW6YmIQLF9oFuao?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+                }
+              ]
+            },
+            {
+              "episodeno": "8",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "940 MB",
+                  "dl": "https://www.googleapis.com/drive/v3/files/14R-_eShw9KdsNWsgx593tB6NAdRJpZgN?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+                }
+              ]
+            },
+            {
+              "episodeno": "9",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "1 GB",
+                  "dl": "https://www.googleapis.com/drive/v3/files/1TiqajqHqBBLV5J4lvmSJqPe1s3zApDLV?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+                }
+              ]
+            }
+          ]
+        }
+    ]
+  },
   {
       "name": "Panchayat",
       "image": "https://m.media-amazon.com/images/M/MV5BMTllYzQ0MzctZTI4Ny00YTE2LTkzYjktMTc4ZWE2MDUxNzk2XkEyXkFqcGdeQXVyNzEyNTM4MTU@._V1_QL50_SY1000_SX675_AL_.jpg",
