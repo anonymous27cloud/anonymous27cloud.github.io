@@ -1,39 +1,4 @@
-[ 
-  {
-    "name": "Four More Shots Please!",
-    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202003/four_more_shots_please_season_.jpeg?_4CysxjsaP_co6Z7PSWerkKr3g4Zhmc3",
-    "seasons":
-    [
-        {
-          "seasonno": "2",
-          "episodes": 
-          [
-            {
-              "episodeno": "1-5",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "1.4 GB",
-                  "dl": " https://www.googleapis.com/drive/v3/files/1Tbp8_fahu8pLrdugzLF4O3iSaqZtXB6y?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "6-10",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "1.4 GB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/1vls5C8mO88tjZdqsxkuhgDmZCJhwf2Wk?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            }
-            
-          ]
-        }
-    ]
-  },
-  {
+[   {
       "name": "Panchayat",
       "image": "https://m.media-amazon.com/images/M/MV5BMTllYzQ0MzctZTI4Ny00YTE2LTkzYjktMTc4ZWE2MDUxNzk2XkEyXkFqcGdeQXVyNzEyNTM4MTU@._V1_QL50_SY1000_SX675_AL_.jpg",
       "seasons":
