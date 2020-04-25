@@ -1,4 +1,119 @@
-[   {
+[ 
+  {
+    "name": "Dark (Dual Audio",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmIyZjA3NGUtYjlhNS00ZDlkLWI0MDgtMDc2YWNjNGMwYWZhXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
+    "seasons":
+    [
+        {
+          "seasonno": "1",
+          "episodes": 
+          [
+            {
+              "episodeno": "1",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "311 MB",
+                  "dl": " https://www.googleapis.com/drive/v3/files/10lhaoLr0iPWRKemLl_N0eoBzs6M6LXFV?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+                }
+              ]
+            },
+            {
+              "episodeno": "2",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "277 MB",
+                  "dl": " https://www.googleapis.com/drive/v3/files/10qlPXlOUPS5O5BJK7Zi8EjpI_K90fxdp?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+                }
+              ]
+            },
+            {
+              "episodeno": "3",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "223MB",
+                  "dl": " https://www.googleapis.com/drive/v3/files/10t-9e3aNQ5-LQ22lYYBr4OrDSyczXwnG?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+                }
+              ]
+            },
+            {
+              "episodeno": "4",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "270 MB",
+                  "dl": " https://www.googleapis.com/drive/v3/files/110jYx4BbECyvuifP9EiRCwILf6W_aRoh?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+                }
+              ]
+            },
+            {
+              "episodeno": "5",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "228 MB",
+                  "dl": " https://www.googleapis.com/drive/v3/files/112NQty9BupFpsGyiOXlREzftLs280xud?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+                }
+              ]
+            },
+            {
+              "episodeno": "6",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "260 MB",
+                  "dl": " https://www.googleapis.com/drive/v3/files/113S92anHAyV-SvTZ41r_SIj7vJ4m9T72?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+                }
+              ]
+            },
+            {
+              "episodeno": "7",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "249 MB",
+                  "dl": " https://www.googleapis.com/drive/v3/files/118dz5L3TTu7dLAaYGxoedQf-eYrpArVb?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+                }
+              ]
+            },
+            {
+              "episodeno": "8",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "294 MB",
+                  "dl": " https://www.googleapis.com/drive/v3/files/11D5zIoVxr4aVFfwNhXcYlbUJJxa-vd_g?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+                }
+              ]
+            },
+            {
+              "episodeno": "9",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "300 MB",
+                  "dl": " https://www.googleapis.com/drive/v3/files/11VQa29Z2ZXYHWQ6gott_wtCshL30XZFB?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+                }
+              ]
+            },
+            {
+              "episodeno": "10",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "293 MB",
+                  "dl": "https://www.googleapis.com/drive/v3/files/11Xau9ZyJwvOWNIg06-MqSekWYjznMVSB?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+                }
+              ]
+            }
+            
+          ]
+        }
+    ]
+  },
+  {
       "name": "Panchayat",
       "image": "https://m.media-amazon.com/images/M/MV5BMTllYzQ0MzctZTI4Ny00YTE2LTkzYjktMTc4ZWE2MDUxNzk2XkEyXkFqcGdeQXVyNzEyNTM4MTU@._V1_QL50_SY1000_SX675_AL_.jpg",
       "seasons":
