@@ -1,1174 +1,1175 @@
-[ {
-      "name": "Panchayat",
-      "image": "https://m.media-amazon.com/images/M/MV5BMTllYzQ0MzctZTI4Ny00YTE2LTkzYjktMTc4ZWE2MDUxNzk2XkEyXkFqcGdeQXVyNzEyNTM4MTU@._V1_QL50_SY1000_SX675_AL_.jpg",
-      "seasons":
-      [
+[
+ {
+  "name": "Panchayat",
+  "image": "https://m.media-amazon.com/images/M/MV5BMTllYzQ0MzctZTI4Ny00YTE2LTkzYjktMTc4ZWE2MDUxNzk2XkEyXkFqcGdeQXVyNzEyNTM4MTU@._V1_QL50_SY1000_SX675_AL_.jpg",
+  "seasons":
+  [
+      {
+        "seasonno": "1",
+        "episodes": 
+        [
           {
-            "seasonno": "1",
-            "episodes": 
-            [
+            "episodeno": "1",
+            "links": [
               {
-                "episodeno": "1",
-                "links": [
-                  {
-                    "quality": "720p",
-                    "size": "371 MB",
-                    "dl": " https://bit.ly/2RQp6mI"
-                  }
-                ]
-              },
+                "quality": "720p",
+                "size": "371 MB",
+                "dl": "https://bit.ly/2RQp6mI"
+              }
+            ]
+          },
+          {
+            "episodeno": "2",
+            "links": [
               {
-                "episodeno": "2",
-                "links": [
-                  {
-                    "quality": "720p",
-                    "size": "251 MB",
-                    "dl": "https://bit.ly/2Y3Ju83"
-                  }
-                ]
-              },
+                "quality": "720p",
+                "size": "251 MB",
+                "dl": "https://bit.ly/2Y3Ju83"
+              }
+            ]
+          },
+          {
+            "episodeno": "3",
+            "links": [
               {
-                "episodeno": "3",
-                "links": [
-                  {
-                    "quality": "720p",
-                    "size": "271 MB",
-                    "dl": "https://bit.ly/2RTDkDc"
-                  }
-                ]
-              },
+                "quality": "720p",
+                "size": "271 MB",
+                "dl": "https://bit.ly/2RTDkDc"
+              }
+            ]
+          },
+          {
+            "episodeno": "4",
+            "links": [
               {
-                "episodeno": "4",
-                "links": [
-                  {
-                    "quality": "720p",
-                    "size": "238 MB",
-                    "dl": "https://bit.ly/3aomNOb"
-                  }
-                ]
-              },
+                "quality": "720p",
+                "size": "238 MB",
+                "dl": "https://bit.ly/3aomNOb"
+              }
+            ]
+          },
+          {
+            "episodeno": "5",
+            "links": [
               {
-                "episodeno": "5",
-                "links": [
-                  {
-                    "quality": "720p",
-                    "size": "269 MB",
-                    "dl": "https://bit.ly/2ys5gYa"
-                  }
-                ]
-              },
+                "quality": "720p",
+                "size": "269 MB",
+                "dl": "https://bit.ly/2ys5gYa"
+              }
+            ]
+          },
+          {
+            "episodeno": "6",
+            "links": [
               {
-                "episodeno": "6",
-                "links": [
-                  {
-                    "quality": "720p",
-                    "size": "270 MB",
-                    "dl": "https://bit.ly/34SlJ3T"
-                  }
-                ]
-              },
+                "quality": "720p",
+                "size": "270 MB",
+                "dl": "https://bit.ly/34SlJ3T"
+              }
+            ]
+          },
+          {
+            "episodeno": "7",
+            "links": [
               {
-                "episodeno": "7",
-                "links": [
-                  {
-                    "quality": "720p",
-                    "size": "232 MB",
-                    "dl": "https://bit.ly/3cy6TSU"
-                  }
-                ]
-              },
+                "quality": "720p",
+                "size": "232 MB",
+                "dl": "https://bit.ly/3cy6TSU"
+              }
+            ]
+          },
+          {
+            "episodeno": "8",
+            "links": [
               {
-                "episodeno": "8",
-                "links": [
-                  {
-                    "quality": "720p",
-                    "size": "369 MB",
-                    "dl": "https://bit.ly/3cDktEH"
-                  }
-                ]
+                "quality": "720p",
+                "size": "369 MB",
+                "dl": "https://bit.ly/3cDktEH"
               }
             ]
           }
-      ]
-    },
-  {
-    "name": "Dark (Dual Audio)",
-    "image": "https://m.media-amazon.com/images/M/MV5BMmIyZjA3NGUtYjlhNS00ZDlkLWI0MDgtMDc2YWNjNGMwYWZhXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
-    "seasons":
-    [
+        ]
+      }
+  ]
+},
+{
+"name": "Dark (Dual Audio)",
+"image": "https://m.media-amazon.com/images/M/MV5BMmIyZjA3NGUtYjlhNS00ZDlkLWI0MDgtMDc2YWNjNGMwYWZhXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
+"seasons":
+[
+    {
+      "seasonno": "1",
+      "episodes": 
+      [
         {
-          "seasonno": "1",
-          "episodes": 
-          [
+          "episodeno": "1",
+          "links": [
             {
-              "episodeno": "1",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "311 MB",
-                  "dl": " https://www.googleapis.com/drive/v3/files/10lhaoLr0iPWRKemLl_N0eoBzs6M6LXFV?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "2",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "277 MB",
-                  "dl": " https://www.googleapis.com/drive/v3/files/10qlPXlOUPS5O5BJK7Zi8EjpI_K90fxdp?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "3",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "223MB",
-                  "dl": " https://www.googleapis.com/drive/v3/files/10t-9e3aNQ5-LQ22lYYBr4OrDSyczXwnG?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "4",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "270 MB",
-                  "dl": " https://www.googleapis.com/drive/v3/files/110jYx4BbECyvuifP9EiRCwILf6W_aRoh?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "5",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "228 MB",
-                  "dl": " https://www.googleapis.com/drive/v3/files/112NQty9BupFpsGyiOXlREzftLs280xud?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "6",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "260 MB",
-                  "dl": " https://www.googleapis.com/drive/v3/files/113S92anHAyV-SvTZ41r_SIj7vJ4m9T72?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "7",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "249 MB",
-                  "dl": " https://www.googleapis.com/drive/v3/files/118dz5L3TTu7dLAaYGxoedQf-eYrpArVb?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "8",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "294 MB",
-                  "dl": " https://www.googleapis.com/drive/v3/files/11D5zIoVxr4aVFfwNhXcYlbUJJxa-vd_g?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "9",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "300 MB",
-                  "dl": " https://www.googleapis.com/drive/v3/files/11VQa29Z2ZXYHWQ6gott_wtCshL30XZFB?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "10",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "293 MB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/11Xau9ZyJwvOWNIg06-MqSekWYjznMVSB?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
+              "quality": "720p",
+              "size": "311 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/10lhaoLr0iPWRKemLl_N0eoBzs6M6LXFV?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
             }
-            
+          ]
+        },
+        {
+          "episodeno": "2",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "277 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/10qlPXlOUPS5O5BJK7Zi8EjpI_K90fxdp?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "3",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "223MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/10t-9e3aNQ5-LQ22lYYBr4OrDSyczXwnG?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "4",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "270 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/110jYx4BbECyvuifP9EiRCwILf6W_aRoh?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "5",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "228 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/112NQty9BupFpsGyiOXlREzftLs280xud?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "6",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "260 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/113S92anHAyV-SvTZ41r_SIj7vJ4m9T72?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "7",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "249 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/118dz5L3TTu7dLAaYGxoedQf-eYrpArVb?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "8",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "294 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/11D5zIoVxr4aVFfwNhXcYlbUJJxa-vd_g?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "9",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "300 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/11VQa29Z2ZXYHWQ6gott_wtCshL30XZFB?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "10",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "293 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/11Xau9ZyJwvOWNIg06-MqSekWYjznMVSB?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        }
+        
+      ]
+    }
+]
+},
+
+{
+"name": "Money Heist",
+"image": "https://m.media-amazon.com/images/M/MV5BZDcxOGI0MDYtNTc5NS00NDUzLWFkOTItNDIxZjI0OTllNTljXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
+"seasons":
+[
+  {
+    "seasonno": "4",
+    "episodes": 
+    [
+      {
+        "episodeno": "1",
+        "links": [
+          {
+            "quality": "720p",
+            "size": "415 MB",
+            "dl": "https://bit.ly/3avHzf3"
+          }
+        ]
+      },
+      {
+        "episodeno": "2",
+        "links": [
+          {
+            "quality": "720p",
+            "size": "346 MB",
+            "dl": "https://bit.ly/3bptn8D"
+          }
+        ]
+      },
+      {
+        "episodeno": "3",
+        "links": [
+          {
+            "quality": "720p",
+            "size": "593 MB",
+            "dl": "https://bit.ly/2VDwxP6"
+          }
+        ]
+      },
+      {
+        "episodeno": "4",
+        "links": [
+          {
+            "quality": "720p",
+            "size": "780 MB",
+            "dl": "https://bit.ly/3eDgs4L"
+          }
+        ]
+      },
+      {
+        "episodeno": "5",
+        "links": [
+          {
+            "quality": "720p",
+            "size": "338 MB",
+            "dl": "https://bit.ly/2RRvaLW"
+          }
+        ]
+      },
+      {
+        "episodeno": "6",
+        "links": [
+          {
+            "quality": "720p",
+            "size": "705 MB",
+            "dl": "https://bit.ly/2ROzZWf"
+          }
+        ]
+      },
+      {
+        "episodeno": "7",
+        "links": [
+          {
+            "quality": "720p",
+            "size": "418 MB",
+            "dl": "https://bit.ly/2VNM8vN"
+          }
+        ]
+      },
+      {
+        "episodeno": "8",
+        "links": [
+          {
+            "quality": "720p",
+            "size": "1 GB",
+            "dl": "https://bit.ly/2KkThhF"
+          }
+        ]
+      }
+    ]
+  }
+]
+},
+{
+"name": "Asur",
+"image": "https://m.media-amazon.com/images/M/MV5BZWJiMDZmNTAtZDg5YS00NDgyLThkMzctYTczZjllNzU0YWY5XkEyXkFqcGdeQXVyMTAwMDI3ODEw._V1_QL50_SY1000_CR0,0,520,1000_AL_.jpg",
+"seasons":
+[
+  {
+    "seasonno": "1",
+    "episodes": 
+    [
+      {
+        "episodeno": "1",
+        "links": [
+          {
+            "quality": "720p",
+            "size": "390 MB",
+            "dl": "https://bit.ly/34QyH2h"
+          }
+        ]
+      },
+      {
+        "episodeno": "2",
+        "links": [
+          {
+            "quality": "720p",
+            "size": "399 MB",
+            "dl": "https://bit.ly/2yzj5E0"
+          }
+        ]
+      },
+      {
+        "episodeno": "3",
+        "links": [
+          {
+            "quality": "720p",
+            "size": "305 MB",
+            "dl": "https://bit.ly/2VmP2so"
+          }
+        ]
+      },
+      {
+        "episodeno": "4",
+        "links": [
+          {
+            "quality": "720p",
+            "size": "310 MB",
+            "dl": "https://bit.ly/3eG0NS8"
+          }
+        ]
+      },
+      {
+        "episodeno": "5",
+        "links": [
+          {
+            "quality": "720p",
+            "size": "314 MB",
+            "dl": "https://bit.ly/3bvKPIE"
+          }
+        ]
+      },
+      {
+        "episodeno": "6",
+        "links": [
+          {
+            "quality": "720p",
+            "size": "324 MB",
+            "dl": "https://bit.ly/2XS5u5m"
+          }
+        ]
+      },
+      {
+        "episodeno": "7",
+        "links": [
+          {
+            "quality": "720p",
+            "size": "347 MB",
+            "dl": "https://bit.ly/3aq3kNh"
+          }
+        ]
+      },
+      {
+        "episodeno": "8",
+        "links": [
+          {
+            "quality": "720p",
+            "size": "518 MB",
+            "dl": "https://bit.ly/2XSJGXm"
+          }
+        ]
+      }
+    ]
+  }
+]
+},
+{
+"name": "Friends",
+"image": "https://m.media-amazon.com/images/M/MV5BNDVkYjU0MzctMWRmZi00NTkxLTgwZWEtOWVhYjZlYjllYmU4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL50_.jpg",
+"seasons":
+[
+  {
+    "seasonno": "10",
+    "episodes": 
+    [
+      {
+        "episodeno": "1",
+        "links": [
+          {
+            "quality": "720p",
+            "size": "85 MB",
+            "dl": "https://www.googleapis.com/drive/v3/files/13Kf1y-4e9fwo97tdsPauIgib2f4k8hLO?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+          }
+        ]
+      },
+      {
+        "episodeno": "2",
+        "links": [
+          {
+            "quality": "720p",
+            "size": "75 MB",
+            "dl": "https://www.googleapis.com/drive/v3/files/1ntGQbe5lHyF20hFymhYE39dStqNYiQBb?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+          }
+        ]
+      },
+      {
+        "episodeno": "3",
+        "links": [
+          {
+            "quality": "720p",
+            "size": "78 MB",
+            "dl": "https://www.googleapis.com/drive/v3/files/1RTYynlBR5JpD8tQa5HPdZNUy1ZOWXiPI?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+          }
+        ]
+      },
+      {
+        "episodeno": "4",
+        "links": [
+          {
+            "quality": "720p",
+            "size": "85 MB",
+            "dl": "https://www.googleapis.com/drive/v3/files/1W-Lz-7uNBVN_MyCQQWYE-MlGXzbMzKNZ?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+          }
+        ]
+      },
+      {
+        "episodeno": "5",
+        "links": [
+          {
+            "quality": "720p",
+            "size": "94 MB",
+            "dl": "https://www.googleapis.com/drive/v3/files/18nexPndFV5fmC699rP5CksexORYhXzmK?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+          }
+        ]
+      },
+      {
+        "episodeno": "6",
+        "links": [
+          {
+            "quality": "720p",
+            "size": "69 MB",
+            "dl": "https://www.googleapis.com/drive/v3/files/1iPi2MH4qu1SuczsAHEgsipJ9G7mXUxph?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+          }
+        ]
+      },
+      {
+        "episodeno": "7",
+        "links": [
+          {
+            "quality": "720p",
+            "size": "84 MB",
+            "dl": "https://www.googleapis.com/drive/v3/files/1IdpXGXnzI2ABmYyL0nNRZ-uYdA7sLPob?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+          }
+        ]
+      },
+      {
+        "episodeno": "8",
+        "links": [
+          {
+            "quality": "720p",
+            "size": "68 MB",
+            "dl": "https://www.googleapis.com/drive/v3/files/1EpQkw6_iBukkAmBJOJ-3gLIFpKGkPUXp?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+          }
+        ]
+      },
+      {
+          "episodeno": "9",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "74 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/10L8yLSxf-PoXleRPduLPlqSH89ilF0_S?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "10",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "79 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/1Eu3GKr04XcjzeiLB43cVhlb3dT0Gvtaw?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "11",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "121 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/1_4uaqLng5tRHLn6e2qBQ80bQNj7uug66?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "12",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "100 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/1UCyWad8vIot_dLuCG2BksrmoiSg3xxS_?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "13",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "67 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/11At4Eh1Kwjiz4VfHEBsdq-qRpOW_j3J_?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "14",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "75 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/18IpppDoBqTi8ozw2G6Pqb3zoGlV3avbn?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "15",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "64 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/1Amuw_QbcPFmdSynESoBbz6wwWEQkYlCg?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "16",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "76 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/1g72_BEH_m4y6EFX-mgW9-oSGp5T4AhXA?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "17",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "159 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/1GgVST-hsTC-Z5jP1PEZ-tlaa8KZR85zY?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "18",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "75 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/18IpppDoBqTi8ozw2G6Pqb3zoGlV3avbn?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
           ]
         }
     ]
   },
-  
-{
-  "name": "Money Heist",
-  "image": "https://m.media-amazon.com/images/M/MV5BZDcxOGI0MDYtNTc5NS00NDUzLWFkOTItNDIxZjI0OTllNTljXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
-  "seasons":
-  [
+  {
+    "seasonno": "9",
+    "episodes": 
+    [
       {
-        "seasonno": "4",
-        "episodes": 
-        [
+        "episodeno": "1",
+        "links": [
           {
-            "episodeno": "1",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "415 MB",
-                "dl": " https://bit.ly/3avHzf3"
-              }
-            ]
-          },
-          {
-            "episodeno": "2",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "346 MB",
-                "dl": "https://bit.ly/3bptn8D"
-              }
-            ]
-          },
-          {
-            "episodeno": "3",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "593 MB",
-                "dl": "https://bit.ly/2VDwxP6"
-              }
-            ]
-          },
-          {
-            "episodeno": "4",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "780 MB",
-                "dl": "https://bit.ly/3eDgs4L"
-              }
-            ]
-          },
-          {
-            "episodeno": "5",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "338 MB",
-                "dl": "https://bit.ly/2RRvaLW"
-              }
-            ]
-          },
-          {
-            "episodeno": "6",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "705 MB",
-                "dl": "https://bit.ly/2ROzZWf"
-              }
-            ]
-          },
-          {
-            "episodeno": "7",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "418 MB",
-                "dl": "https://bit.ly/2VNM8vN"
-              }
-            ]
-          },
-          {
-            "episodeno": "8",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "1 GB",
-                "dl": "https://bit.ly/2KkThhF"
-              }
-            ]
+            "quality": "720p",
+            "size": "64 MB",
+            "dl": "https://www.googleapis.com/drive/v3/files/1E5Dgb6dU_aAt1Zpd9X9vdvLTVSm2lG0f?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
           }
-        ]
-      }
-  ]
-},
-{
-  "name": "Asur",
-  "image": "https://m.media-amazon.com/images/M/MV5BZWJiMDZmNTAtZDg5YS00NDgyLThkMzctYTczZjllNzU0YWY5XkEyXkFqcGdeQXVyMTAwMDI3ODEw._V1_QL50_SY1000_CR0,0,520,1000_AL_.jpg",
-  "seasons":
-  [
-      {
-        "seasonno": "1",
-        "episodes": 
-        [
-          {
-            "episodeno": "1",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "390 MB",
-                "dl": "https://bit.ly/34QyH2h"
-              }
-            ]
-          },
-          {
-            "episodeno": "2",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "399 MB",
-                "dl": "https://bit.ly/2yzj5E0"
-              }
-            ]
-          },
-          {
-            "episodeno": "3",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "305 MB",
-                "dl": "https://bit.ly/2VmP2so"
-              }
-            ]
-          },
-          {
-            "episodeno": "4",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "310 MB",
-                "dl": "https://bit.ly/3eG0NS8"
-              }
-            ]
-          },
-          {
-            "episodeno": "5",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "314 MB",
-                "dl": "https://bit.ly/3bvKPIE"
-              }
-            ]
-          },
-          {
-            "episodeno": "6",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "324 MB",
-                "dl": "https://bit.ly/2XS5u5m"
-              }
-            ]
-          },
-          {
-            "episodeno": "7",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "347 MB",
-                "dl": "https://bit.ly/3aq3kNh"
-              }
-            ]
-          },
-          {
-            "episodeno": "8",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "518 MB",
-                "dl": "https://bit.ly/2XSJGXm"
-              }
-            ]
-          }
-        ]
-      }
-  ]
-},
-{
-  "name": "Friends",
-  "image": "https://m.media-amazon.com/images/M/MV5BNDVkYjU0MzctMWRmZi00NTkxLTgwZWEtOWVhYjZlYjllYmU4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL50_.jpg",
-  "seasons":
-  [
-      {
-        "seasonno": "10",
-        "episodes": 
-        [
-          {
-            "episodeno": "1",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "85 MB",
-                "dl": "https://www.googleapis.com/drive/v3/files/13Kf1y-4e9fwo97tdsPauIgib2f4k8hLO?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-              }
-            ]
-          },
-          {
-            "episodeno": "2",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "75 MB",
-                "dl": "https://www.googleapis.com/drive/v3/files/1ntGQbe5lHyF20hFymhYE39dStqNYiQBb?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-              }
-            ]
-          },
-          {
-            "episodeno": "3",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "78 MB",
-                "dl": "https://www.googleapis.com/drive/v3/files/1RTYynlBR5JpD8tQa5HPdZNUy1ZOWXiPI?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-              }
-            ]
-          },
-          {
-            "episodeno": "4",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "85 MB",
-                "dl": "https://www.googleapis.com/drive/v3/files/1W-Lz-7uNBVN_MyCQQWYE-MlGXzbMzKNZ?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-              }
-            ]
-          },
-          {
-            "episodeno": "5",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "94 MB",
-                "dl": "https://www.googleapis.com/drive/v3/files/18nexPndFV5fmC699rP5CksexORYhXzmK?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-              }
-            ]
-          },
-          {
-            "episodeno": "6",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "69 MB",
-                "dl": "https://www.googleapis.com/drive/v3/files/1iPi2MH4qu1SuczsAHEgsipJ9G7mXUxph?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-              }
-            ]
-          },
-          {
-            "episodeno": "7",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "84 MB",
-                "dl": "https://www.googleapis.com/drive/v3/files/1IdpXGXnzI2ABmYyL0nNRZ-uYdA7sLPob?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-              }
-            ]
-          },
-          {
-            "episodeno": "8",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "68 MB",
-                "dl": "https://www.googleapis.com/drive/v3/files/1EpQkw6_iBukkAmBJOJ-3gLIFpKGkPUXp?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-              }
-            ]
-          },
-          {
-              "episodeno": "9",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "74 MB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/10L8yLSxf-PoXleRPduLPlqSH89ilF0_S?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "10",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "79 MB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/1Eu3GKr04XcjzeiLB43cVhlb3dT0Gvtaw?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "11",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "121 MB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/1_4uaqLng5tRHLn6e2qBQ80bQNj7uug66?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "12",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "100 MB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/1UCyWad8vIot_dLuCG2BksrmoiSg3xxS_?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "13",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "67 MB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/11At4Eh1Kwjiz4VfHEBsdq-qRpOW_j3J_?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "14",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "75 MB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/18IpppDoBqTi8ozw2G6Pqb3zoGlV3avbn?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "15",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "64 MB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/1Amuw_QbcPFmdSynESoBbz6wwWEQkYlCg?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "16",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "76 MB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/1g72_BEH_m4y6EFX-mgW9-oSGp5T4AhXA?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "17",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "159 MB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/1GgVST-hsTC-Z5jP1PEZ-tlaa8KZR85zY?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "18",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "75 MB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/18IpppDoBqTi8ozw2G6Pqb3zoGlV3avbn?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            }
         ]
       },
       {
-        "seasonno": "9",
-        "episodes": 
-        [
+        "episodeno": "2",
+        "links": [
           {
-            "episodeno": "1",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "64 MB",
-                "dl": "https://www.googleapis.com/drive/v3/files/1E5Dgb6dU_aAt1Zpd9X9vdvLTVSm2lG0f?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-              }
-            ]
-          },
-          {
-            "episodeno": "2",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "67 MB",
-                "dl": "https://www.googleapis.com/drive/v3/files/1GmITxhJzinrvzf33y7eGSc0obv7zfhWy?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-              }
-            ]
-          },
-          {
-            "episodeno": "3",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "71 MB",
-                "dl": "https://www.googleapis.com/drive/v3/files/1kTFghH-t-yLa5fAdS9kvsbLz-MwdXOgQ?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-              }
-            ]
-          },
-          {
-            "episodeno": "4",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "72 MB",
-                "dl": "https://www.googleapis.com/drive/v3/files/1Yf8ujRreQ6iy7y3_kL8g7L6OSCkMLZBx?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-              }
-            ]
-          },
-          {
-            "episodeno": "5",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "69 MB",
-                "dl": "https://www.googleapis.com/drive/v3/files/1voNlQWkE1eVQaYxvrezM-sXVlTiUZxpS?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-              }
-            ]
-          },
-          {
-            "episodeno": "6",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "93 MB",
-                "dl": "https://www.googleapis.com/drive/v3/files/1i-yImWDlg0OO4aoW-0z0pLaewCsWMVJf?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-              }
-            ]
-          },
-          {
-            "episodeno": "7",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "67 MB",
-                "dl": "https://www.googleapis.com/drive/v3/files/1oUZdzOWWQEzZAugvPIQ2YJF4h6RCdWM-?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-              }
-            ]
-          },
-          {
-            "episodeno": "8",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "76 MB",
-                "dl": "https://www.googleapis.com/drive/v3/files/1rPn5F21y9i_jJFPCASdY4nUqRxbF3R63?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-              }
-            ]
-          },
-          {
-              "episodeno": "9",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "63 MB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/19cJcEHAGQik7fcl_DQA9Mp5mKQUi1ua_?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "10",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "77 MB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/1pFUHC9N6eqBG6I6MZwufB2Ei16HaR7hN?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "11",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "73 MB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/1prQ-tfzK0nApKfCfuebFI3cRkXQnv5fs?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "12",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "68 MB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/1XJIdYPAlV0M8KzvTyll6j4AVd30ijdgd?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "13",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "86 MB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/1gxFjTp-kENQiy3zgNBbOGTi3Xbzup9NI?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "14",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "68 MB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/1w8btcewcnO7ZLBBvdslpWKegKj4fObmo?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "15",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "76 MB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/1nMEUrUmjWKu2Wbi11wzHfDOA7oD31k7l?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "16",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "66 MB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/1H3o8HcUwVnQYIQLb4AMYGCw2_I_Ekmwv?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "17",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "67 MB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/1DDzF9x_C6rN9aIGw2brgNuVJdwPw3Fb3?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "18",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "72 MB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/1aorvLJZ_yiYF40I4VyqweLzmzFrAO_7i?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },{
-              "episodeno": "19",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "80 MB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/1-126Y0RSUQmGVekprF-bs_HVJgdMcFxr?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "20",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "80 MB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/1592Yd7Nt8RtrzapCItQ6UOLmW1n9k3j-?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "21",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "79 MB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/1jnvsrh90n3M1pXGdJSyXA2xgMDILLbJZ?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "22",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "77 MB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/1uW_OXj2v36XlUej4Z6oE4SKkkjzSYCo9?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "23",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "195 MB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/1sh4eccaHxE7dQByYB5jLYaNXcH83cOf4?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            }
+            "quality": "720p",
+            "size": "67 MB",
+            "dl": "https://www.googleapis.com/drive/v3/files/1GmITxhJzinrvzf33y7eGSc0obv7zfhWy?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+          }
         ]
       },
       {
-        "seasonno": "8",
-        "episodes": 
-        [
+        "episodeno": "3",
+        "links": [
           {
-            "episodeno": "1",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "95 MB",
-                "dl": "https://www.googleapis.com/drive/v3/files/18LZugfShMJk8Qne27K-wLbhDSQCJ5aI0?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-              }
-            ]
-          },
-          {
-            "episodeno": "2",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "82 MB",
-                "dl": "https://www.googleapis.com/drive/v3/files/1KUecm7-GKnZTXpe9iruIPZtYdrEiaBNi?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-              }
-            ]
-          },
-          {
-            "episodeno": "3",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "71 MB",
-                "dl": "https://www.googleapis.com/drive/v3/files/16znCv2gc4cFDoHPbpJALM5Ut8EKYdu2Y?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-              }
-            ]
-          },
-          {
-            "episodeno": "4",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "71 MB",
-                "dl": "https://www.googleapis.com/drive/v3/files/1pL0JWMzn5P7GfGwkOfjowGA_VZI5Esr-?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-              }
-            ]
-          },
-          {
-            "episodeno": "5",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "71 MB",
-                "dl": "https://www.googleapis.com/drive/v3/files/11yTbZdbhyeIrj1M1hJWVNO8iTVFJvIGg?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-              }
-            ]
-          },
-          {
-            "episodeno": "6",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "78 MB",
-                "dl": "https://www.googleapis.com/drive/v3/files/1G2RwJIBlUZDQBRDCvYYOCAn-jeRWG_PI?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-              }
-            ]
-          },
-          {
-            "episodeno": "7",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "70 MB",
-                "dl": "https://www.googleapis.com/drive/v3/files/1hh82CePZ_7Z9o6yWkdNfRikDqbVn29rT?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-              }
-            ]
-          },
-          {
-            "episodeno": "8",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "69 MB",
-                "dl": "https://www.googleapis.com/drive/v3/files/132ZKNge810vNaygsx3xYepK7K-xynlCb?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-              }
-            ]
-          },
-          {
-              "episodeno": "9",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "84 MB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/1CRlSI3rgQU4GBtNtLsnavQsB1gj2PhBf?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "10",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "72 MB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/1e5oEaZ0Rj_gfpV2ocF3dbK3CsycOaboq?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "11",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "70 MB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/1m3PT9AoCa4iWE35xiJS6-9Go3_o95nKU?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "12",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "71 MB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/1dS1sgaCaNoA_a1R4SPtNqZEfxYQZAVlN?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "13",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "65 MB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/1ZG6beLwsFLNNc3U9YGY6Rd0HBj2UAUhe?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "14",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "71 MB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/1_ws6pMnoDxMz4zwWf7BRGYKgQPnQlmSx?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "15",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "69 MB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/1uylXtX4JVqJbAzTcfOGOZrhUm4P6mM-o?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "16",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "59 MB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/1jDtKq7bx1GHYDF2ORkrCkktXwhvrzx4k?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "17",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "69 MB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/1Ihrpv5AGJ-tM5sE_q9s1ExntR0tfVs_0?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "18",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "84 MB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/1myjtVrrouYPM9fgADi3mM3xwJBbNP8Fo?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },{
-              "episodeno": "19",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "74 MB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/1avSaUO0h7CdVK9Cappmh4x6WyusNd1Pn?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "20",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "92 MB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/1MbpIO6h1KeXxFqKouQCw8jOT75Wsp-u4?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "21",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "75 MB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/1ztvdRqAkuDgaAwLQr22aaHviL7sDO_Ao?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "22",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "77 MB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/1sqLiEhvwv01dvG3ASXRTPq5p3Fgl3GUx?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "23",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "73 MB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/1Ax6DRWOl6qmRMLKoAM38NsUxGuXZBEuD?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            },
-            {
-              "episodeno": "24",
-              "links": [
-                {
-                  "quality": "720p",
-                  "size": "62 MB",
-                  "dl": "https://www.googleapis.com/drive/v3/files/1bKNDV23AVs1exFwF016jfHrHUGiR4nWG?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-                }
-              ]
-            }
+            "quality": "720p",
+            "size": "71 MB",
+            "dl": "https://www.googleapis.com/drive/v3/files/1kTFghH-t-yLa5fAdS9kvsbLz-MwdXOgQ?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+          }
         ]
-      }
+      },
+      {
+        "episodeno": "4",
+        "links": [
+          {
+            "quality": "720p",
+            "size": "72 MB",
+            "dl": "https://www.googleapis.com/drive/v3/files/1Yf8ujRreQ6iy7y3_kL8g7L6OSCkMLZBx?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+          }
+        ]
+      },
+      {
+        "episodeno": "5",
+        "links": [
+          {
+            "quality": "720p",
+            "size": "69 MB",
+            "dl": "https://www.googleapis.com/drive/v3/files/1voNlQWkE1eVQaYxvrezM-sXVlTiUZxpS?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+          }
+        ]
+      },
+      {
+        "episodeno": "6",
+        "links": [
+          {
+            "quality": "720p",
+            "size": "93 MB",
+            "dl": "https://www.googleapis.com/drive/v3/files/1i-yImWDlg0OO4aoW-0z0pLaewCsWMVJf?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+          }
+        ]
+      },
+      {
+        "episodeno": "7",
+        "links": [
+          {
+            "quality": "720p",
+            "size": "67 MB",
+            "dl": "https://www.googleapis.com/drive/v3/files/1oUZdzOWWQEzZAugvPIQ2YJF4h6RCdWM-?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+          }
+        ]
+      },
+      {
+        "episodeno": "8",
+        "links": [
+          {
+            "quality": "720p",
+            "size": "76 MB",
+            "dl": "https://www.googleapis.com/drive/v3/files/1rPn5F21y9i_jJFPCASdY4nUqRxbF3R63?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+          }
+        ]
+      },
+      {
+          "episodeno": "9",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "63 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/19cJcEHAGQik7fcl_DQA9Mp5mKQUi1ua_?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "10",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "77 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/1pFUHC9N6eqBG6I6MZwufB2Ei16HaR7hN?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "11",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "73 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/1prQ-tfzK0nApKfCfuebFI3cRkXQnv5fs?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "12",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "68 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/1XJIdYPAlV0M8KzvTyll6j4AVd30ijdgd?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "13",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "86 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/1gxFjTp-kENQiy3zgNBbOGTi3Xbzup9NI?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "14",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "68 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/1w8btcewcnO7ZLBBvdslpWKegKj4fObmo?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "15",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "76 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/1nMEUrUmjWKu2Wbi11wzHfDOA7oD31k7l?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "16",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "66 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/1H3o8HcUwVnQYIQLb4AMYGCw2_I_Ekmwv?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "17",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "67 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/1DDzF9x_C6rN9aIGw2brgNuVJdwPw3Fb3?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "18",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "72 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/1aorvLJZ_yiYF40I4VyqweLzmzFrAO_7i?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },{
+          "episodeno": "19",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "80 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/1-126Y0RSUQmGVekprF-bs_HVJgdMcFxr?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "20",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "80 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/1592Yd7Nt8RtrzapCItQ6UOLmW1n9k3j-?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "21",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "79 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/1jnvsrh90n3M1pXGdJSyXA2xgMDILLbJZ?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "22",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "77 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/1uW_OXj2v36XlUej4Z6oE4SKkkjzSYCo9?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "23",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "195 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/1sh4eccaHxE7dQByYB5jLYaNXcH83cOf4?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        }
+    ]
+  },
+  {
+    "seasonno": "8",
+    "episodes": 
+    [
+      {
+        "episodeno": "1",
+        "links": [
+          {
+            "quality": "720p",
+            "size": "95 MB",
+            "dl": "https://www.googleapis.com/drive/v3/files/18LZugfShMJk8Qne27K-wLbhDSQCJ5aI0?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+          }
+        ]
+      },
+      {
+        "episodeno": "2",
+        "links": [
+          {
+            "quality": "720p",
+            "size": "82 MB",
+            "dl": "https://www.googleapis.com/drive/v3/files/1KUecm7-GKnZTXpe9iruIPZtYdrEiaBNi?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+          }
+        ]
+      },
+      {
+        "episodeno": "3",
+        "links": [
+          {
+            "quality": "720p",
+            "size": "71 MB",
+            "dl": "https://www.googleapis.com/drive/v3/files/16znCv2gc4cFDoHPbpJALM5Ut8EKYdu2Y?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+          }
+        ]
+      },
+      {
+        "episodeno": "4",
+        "links": [
+          {
+            "quality": "720p",
+            "size": "71 MB",
+            "dl": "https://www.googleapis.com/drive/v3/files/1pL0JWMzn5P7GfGwkOfjowGA_VZI5Esr-?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+          }
+        ]
+      },
+      {
+        "episodeno": "5",
+        "links": [
+          {
+            "quality": "720p",
+            "size": "71 MB",
+            "dl": "https://www.googleapis.com/drive/v3/files/11yTbZdbhyeIrj1M1hJWVNO8iTVFJvIGg?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+          }
+        ]
+      },
+      {
+        "episodeno": "6",
+        "links": [
+          {
+            "quality": "720p",
+            "size": "78 MB",
+            "dl": "https://www.googleapis.com/drive/v3/files/1G2RwJIBlUZDQBRDCvYYOCAn-jeRWG_PI?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+          }
+        ]
+      },
+      {
+        "episodeno": "7",
+        "links": [
+          {
+            "quality": "720p",
+            "size": "70 MB",
+            "dl": "https://www.googleapis.com/drive/v3/files/1hh82CePZ_7Z9o6yWkdNfRikDqbVn29rT?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+          }
+        ]
+      },
+      {
+        "episodeno": "8",
+        "links": [
+          {
+            "quality": "720p",
+            "size": "69 MB",
+            "dl": "https://www.googleapis.com/drive/v3/files/132ZKNge810vNaygsx3xYepK7K-xynlCb?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+          }
+        ]
+      },
+      {
+          "episodeno": "9",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "84 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/1CRlSI3rgQU4GBtNtLsnavQsB1gj2PhBf?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "10",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "72 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/1e5oEaZ0Rj_gfpV2ocF3dbK3CsycOaboq?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "11",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "70 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/1m3PT9AoCa4iWE35xiJS6-9Go3_o95nKU?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "12",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "71 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/1dS1sgaCaNoA_a1R4SPtNqZEfxYQZAVlN?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "13",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "65 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/1ZG6beLwsFLNNc3U9YGY6Rd0HBj2UAUhe?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "14",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "71 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/1_ws6pMnoDxMz4zwWf7BRGYKgQPnQlmSx?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "15",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "69 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/1uylXtX4JVqJbAzTcfOGOZrhUm4P6mM-o?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "16",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "59 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/1jDtKq7bx1GHYDF2ORkrCkktXwhvrzx4k?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "17",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "69 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/1Ihrpv5AGJ-tM5sE_q9s1ExntR0tfVs_0?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "18",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "84 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/1myjtVrrouYPM9fgADi3mM3xwJBbNP8Fo?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },{
+          "episodeno": "19",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "74 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/1avSaUO0h7CdVK9Cappmh4x6WyusNd1Pn?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "20",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "92 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/1MbpIO6h1KeXxFqKouQCw8jOT75Wsp-u4?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "21",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "75 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/1ztvdRqAkuDgaAwLQr22aaHviL7sDO_Ao?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "22",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "77 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/1sqLiEhvwv01dvG3ASXRTPq5p3Fgl3GUx?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "23",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "73 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/1Ax6DRWOl6qmRMLKoAM38NsUxGuXZBEuD?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        },
+        {
+          "episodeno": "24",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "62 MB",
+              "dl": "https://www.googleapis.com/drive/v3/files/1bKNDV23AVs1exFwF016jfHrHUGiR4nWG?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+            }
+          ]
+        }
+    ]
+  }
 
 
-  ]
+]
 },
 {
-  "name": "Mirzapur",
-  "image": "https://m.media-amazon.com/images/M/MV5BMWUyYWNiODItNjdmNS00ZDhlLWE0YjQtNGEyMDg3ODJiMTM3XkEyXkFqcGdeQXVyODQ5NDUwMDk@._V1_QL50_.jpg",
-  "seasons":
-  [
+"name": "Mirzapur",
+"image": "https://m.media-amazon.com/images/M/MV5BMWUyYWNiODItNjdmNS00ZDhlLWE0YjQtNGEyMDg3ODJiMTM3XkEyXkFqcGdeQXVyODQ5NDUwMDk@._V1_QL50_.jpg",
+"seasons":
+[
+  {
+    "seasonno": "1",
+    "episodes": 
+    [
       {
-        "seasonno": "1",
-        "episodes": 
-        [
+        "episodeno": "1",
+        "links": [
           {
-            "episodeno": "1",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "1 GB",
-                "dl": "https://www.googleapis.com/drive/v3/files/1gxuUq_xVwKTBb3s2NPIBMRLGjMalKKcy?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-              }
-            ]
-          },
+            "quality": "720p",
+            "size": "1 GB",
+            "dl": "https://www.googleapis.com/drive/v3/files/1gxuUq_xVwKTBb3s2NPIBMRLGjMalKKcy?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+          }
+        ]
+      },
+      {
+        "episodeno": "2",
+        "links": [
           {
-            "episodeno": "2",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "884 MB",
-                "dl": "https://www.googleapis.com/drive/v3/files/1JzFovb0WPQtQIrFhx44CJ1xlRup7hOkP?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-              }
-            ]
-          },
+            "quality": "720p",
+            "size": "884 MB",
+            "dl": "https://www.googleapis.com/drive/v3/files/1JzFovb0WPQtQIrFhx44CJ1xlRup7hOkP?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+          }
+        ]
+      },
+      {
+        "episodeno": "3",
+        "links": [
           {
-            "episodeno": "3",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "962 MB",
-                "dl": "https://www.googleapis.com/drive/v3/files/1IHuom4YGKe2Dd_MltgrFDLxnP81zvLws?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-              }
-            ]
-          },
+            "quality": "720p",
+            "size": "962 MB",
+            "dl": "https://www.googleapis.com/drive/v3/files/1IHuom4YGKe2Dd_MltgrFDLxnP81zvLws?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+          }
+        ]
+      },
+      {
+        "episodeno": "4",
+        "links": [
           {
-            "episodeno": "4",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "894 MB",
-                "dl": "https://www.googleapis.com/drive/v3/files/1EfQD_FmkhokvbPSaNVmOJv3C5kW1J-iV?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-              }
-            ]
-          },
+            "quality": "720p",
+            "size": "894 MB",
+            "dl": "https://www.googleapis.com/drive/v3/files/1EfQD_FmkhokvbPSaNVmOJv3C5kW1J-iV?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+          }
+        ]
+      },
+      {
+        "episodeno": "5",
+        "links": [
           {
-            "episodeno": "5",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "1 GB",
-                "dl": "https://www.googleapis.com/drive/v3/files/1jwmHWka0sYniVKTIJ-kzkIkSMZzR82s3?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-              }
-            ]
-          },
+            "quality": "720p",
+            "size": "1 GB",
+            "dl": "https://www.googleapis.com/drive/v3/files/1jwmHWka0sYniVKTIJ-kzkIkSMZzR82s3?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+          }
+        ]
+      },
+      {
+        "episodeno": "6",
+        "links": [
           {
-            "episodeno": "6",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "992 MB",
-                "dl": "https://www.googleapis.com/drive/v3/files/1pIUV4QdlgcFgEcT6tnVHIEK9RV-CAUoT?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-              }
-            ]
-          },
+            "quality": "720p",
+            "size": "992 MB",
+            "dl": "https://www.googleapis.com/drive/v3/files/1pIUV4QdlgcFgEcT6tnVHIEK9RV-CAUoT?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+          }
+        ]
+      },
+      {
+        "episodeno": "7",
+        "links": [
           {
-            "episodeno": "7",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "1 GB",
-                "dl": "https://www.googleapis.com/drive/v3/files/1xmt0uFmd58eLLHsSTwW6YmIQLF9oFuao?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-              }
-            ]
-          },
+            "quality": "720p",
+            "size": "1 GB",
+            "dl": "https://www.googleapis.com/drive/v3/files/1xmt0uFmd58eLLHsSTwW6YmIQLF9oFuao?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+          }
+        ]
+      },
+      {
+        "episodeno": "8",
+        "links": [
           {
-            "episodeno": "8",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "940 MB",
-                "dl": "https://www.googleapis.com/drive/v3/files/14R-_eShw9KdsNWsgx593tB6NAdRJpZgN?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-              }
-            ]
-          },
+            "quality": "720p",
+            "size": "940 MB",
+            "dl": "https://www.googleapis.com/drive/v3/files/14R-_eShw9KdsNWsgx593tB6NAdRJpZgN?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+          }
+        ]
+      },
+      {
+        "episodeno": "9",
+        "links": [
           {
-            "episodeno": "9",
-            "links": [
-              {
-                "quality": "720p",
-                "size": "1 GB",
-                "dl": "https://www.googleapis.com/drive/v3/files/1TiqajqHqBBLV5J4lvmSJqPe1s3zApDLV?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
-              }
-            ]
+            "quality": "720p",
+            "size": "1 GB",
+            "dl": "https://www.googleapis.com/drive/v3/files/1TiqajqHqBBLV5J4lvmSJqPe1s3zApDLV?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
           }
         ]
       }
-  ]
+    ]
+  }
+]
 }
 
 ]
