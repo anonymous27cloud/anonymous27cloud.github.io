@@ -64,13 +64,13 @@
   "links": [
     {
       "quality": "720p",
-      "size": "729 MB",
-      "dl": "https://www.googleapis.com/drive/v3/files/1GOCjwzPuieKZZz2u65MDvheUJfwn5_YL?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+      "size": "1.5 GB",
+      "dl": "https://firebasestorage.googleapis.com/v0/b/light-lacing-247408.appspot.com/o/bolle%2FThappad%20%2FHDMovieshub.de%20-%20THAPPAD%20720p%20(1).mkv?alt=media&token=f3427f6a-4a3d-4f57-b54a-d7ba5188287b"
     },
      {
       "quality": "480p",
-      "size": "450 MB",
-      "dl": "https://www.googleapis.com/drive/v3/files/1NbURq-S3E3VuL4Jh2THSOfM1TUm_W80j?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+      "size": "500 MB",
+      "dl": "https://firebasestorage.googleapis.com/v0/b/light-lacing-247408.appspot.com/o/bolle%2FThappad%20%2FHDMovieshub.de%20-%20tHAPPAD%20480p.mkv?alt=media&token=ff1b03c9-04cb-42ec-b673-a1de0e19dfef"
     }
   ]
 },
