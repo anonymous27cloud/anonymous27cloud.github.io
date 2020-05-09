@@ -5,6 +5,100 @@
     "seasons":
     [
       {
+        "seasonno": "1",
+        "episodes":
+        [
+          {
+            "episodeno": "1",
+            "links": 
+            [
+              {
+                "quality": "720p",
+                "size": "279 MB",
+                "dl": "https://firebasestorage.googleapis.com/v0/b/light-lacing-247408.appspot.com/o/Bharatveer%2FSacred%20Game%2FSacred%20Games%202018%20Hindi%20S01EP01%20720p%20%5BAllMoviesHub.in%5D.mkv?alt=media&token=6eb0dff6-7ea9-4357-901a-3cc2d3edbc5c"
+              }
+            ]
+          },
+          {
+            "episodeno": "2",
+            "links": 
+            [
+              {
+                "quality": "720p",
+                "size": "259 MB",
+                "dl": "https://firebasestorage.googleapis.com/v0/b/light-lacing-247408.appspot.com/o/Bharatveer%2FSacred%20Game%2FSacred%20Games%202018%20Hindi%20S01EP02%20720p%20%5BAllMoviesHub.in%5D.mkv?alt=media&token=b2383fad-b29d-45e7-8081-0578ce00b75f"
+              }
+            ]
+          },
+          {
+            "episodeno": "3",
+            "links": 
+            [
+              {
+                "quality": "720p",
+                "size": "225 MB",
+                "dl": "https://firebasestorage.googleapis.com/v0/b/light-lacing-247408.appspot.com/o/Bharatveer%2FSacred%20Game%2FSacred%20Games%202018%20Hindi%20S01EP03%20720p%20%5BAllMoviesHub.in%5D.mkv?alt=media&token=64b2cd19-5ada-4ec2-ac1a-14a1028a4454"
+              }
+            ]
+          },
+          {
+            "episodeno": "4",
+            "links": 
+            [
+              {
+                "quality": "720p",
+                "size": "234 MB",
+                "dl": "https://firebasestorage.googleapis.com/v0/b/light-lacing-247408.appspot.com/o/Bharatveer%2FSacred%20Game%2FSacred%20Games%202018%20Hindi%20S01EP04%20720p%20%5BAllMoviesHub.in%5D.mkv?alt=media&token=dd937fa8-8148-496d-bfb4-64aaec5cf071"
+              }
+            ]
+          },
+          {
+            "episodeno": "5",
+            "links": 
+            [
+              {
+                "quality": "720p",
+                "size": "235 MB",
+                "dl": "https://firebasestorage.googleapis.com/v0/b/light-lacing-247408.appspot.com/o/Bharatveer%2FSacred%20Game%2FSacred%20Games%202018%20Hindi%20S01EP05%20720p%20%5BAllMoviesHub.in%5D.mkv?alt=media&token=0ce38b7e-9125-48a4-a534-96a6c9718500"
+              }
+            ]
+          },
+          {
+            "episodeno": "6",
+            "links": 
+            [
+              {
+                "quality": "720p",
+                "size": "247 MB",
+                "dl": "https://firebasestorage.googleapis.com/v0/b/light-lacing-247408.appspot.com/o/Bharatveer%2FSacred%20Game%2FSacred%20Games%202018%20Hindi%20S01EP06%20720p%20%5BAllMoviesHub.in%5D.mkv?alt=media&token=b968246d-9216-4e1e-aea1-2c10a8aae36d"
+              }
+            ]
+          },
+          {
+            "episodeno": "7",
+            "links": 
+            [
+              {
+                "quality": "720p",
+                "size": "250 MB",
+                "dl": "https://firebasestorage.googleapis.com/v0/b/light-lacing-247408.appspot.com/o/Bharatveer%2FSacred%20Game%2FSacred%20Games%202018%20Hindi%20S01EP07%20720p%20%5BAllMoviesHub.in%5D.mkv?alt=media&token=3ff90f38-2281-43a4-ab70-0dae4408191e"
+              }
+            ]
+          },
+          {
+            "episodeno": "8",
+            "links": 
+            [
+              {
+                "quality": "720p",
+                "size": "240 MB",
+                "dl": "https://firebasestorage.googleapis.com/v0/b/light-lacing-247408.appspot.com/o/Bharatveer%2FSacred%20Game%2FSacred%20Games%202018%20Hindi%20S01EP08%20720p%20%5BAllMoviesHub.in%5D.mkv?alt=media&token=3c6b756c-41e4-45c6-b719-c7b096146859"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "seasonno": "2",
         "episodes":
         [
