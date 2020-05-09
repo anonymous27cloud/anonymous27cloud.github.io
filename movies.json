@@ -156,24 +156,18 @@
     ]
   },
   {
-      "name": "Shubh Mangal zyaada Savdhan",
-      "image": "https://m.media-amazon.com/images/M/MV5BMTNhOWM4Y2MtZDhjNC00ZTZmLWJkMDUtNGE4Nzg2MzhmMzY0XkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_QL50_SY1000_SX800_AL_.jpg",
-      "links": [
-        {
-          "quality": "720p",
-          "size": "1.7 GB",
-          "dl": "https://bit.ly/3alVCnj"
-        }
-      ]
-    },
-  {
-    "name": "The Lion King(2019)",
+    "name": "The Lion King[HIN+ENG]",
     "image": "https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
     "links": [
       {
-        "quality": "720p",
-        "size": "931 MB",
-        "dl": "https://www.googleapis.com/drive/v3/files/1yHuk4-d2VQ46EB0JfFYf2Q0slhwDvmZd?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+        "quality": "720pBR",
+        "size": "1.15 GB",
+        "dl": "https://firebasestorage.googleapis.com/v0/b/rare-cubist-246817.appspot.com/o/Bharat%2FThe%20Lion%20King%2FThe.Lion.King.2019.720p.Hindi.English.Hdmovieshub.pw.mkv?alt=media&token=1432f071-5c1c-40ce-a183-93431096442c"
+      },
+      {
+        "quality": "480pBR",
+        "size": "390 MB",
+        "dl": "https://firebasestorage.googleapis.com/v0/b/rare-cubist-246817.appspot.com/o/Bharat%2FThe%20Lion%20King%2FThe.Lion.King.2019.480p.Hindi.English.Hdmovieshub.pw.mkv?alt=media&token=c1c5dfd1-2b36-4367-a92e-3372f178716a"
       }
     ]
   },
