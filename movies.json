@@ -129,8 +129,13 @@
     "links": [
       {
         "quality": "720p",
-        "size": "1.1 GB",
-        "dl": "https://www.googleapis.com/drive/v3/files/1CbOYBPAaS-9_54Jm2TNNAptxsnCpb-Am?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+        "size": "940 MB",
+        "dl": "https://firebasestorage.googleapis.com/v0/b/light-lacing-247408.appspot.com/o/bolle%2FBhoot:%20Part%20One%20%E2%80%93%20The%20Haunted%20Ship%2FBhoot%20Part%20One%20The%20Haunted%20Ship%202020%20Hindi%20900MB%20HDMoviesHub.de.mkv?alt=media&token=3e5f404d-c163-4239-b416-04326009da33"
+      },
+      {
+        "quality": "480p",
+        "size": "410 MB",
+        "dl": "https://firebasestorage.googleapis.com/v0/b/light-lacing-247408.appspot.com/o/bolle%2FBhoot:%20Part%20One%20%E2%80%93%20The%20Haunted%20Ship%2FBhoot%20Part%20One%20The%20Haunted%20Ship%202020%20Hindi%20400MB.mkv?alt=media&token=2b241987-9c4f-4e4e-ac31-5bb291def4e5"
       }
     ]
 },
