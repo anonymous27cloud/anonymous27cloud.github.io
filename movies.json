@@ -216,8 +216,13 @@
       "links": [
         {
           "quality": "720p",
-          "size": "1.4 GB",
-          "dl": "https://www.googleapis.com/drive/v3/files/1I1u9hqEQ47U9d0puQWG9tr2NJQJ8Fvbm?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+          "size": "850 MB",
+          "dl": "https://firebasestorage.googleapis.com/v0/b/light-lacing-247408.appspot.com/o/bolle%2FGood%20Newz%2FHDMovieshub.club%20-%20Good%20Newwz.720p.AMZN.WEB-DL.800MB.H.264.mkv?alt=media&token=7884a6e6-5200-470c-8bbf-c8cba83ca442"
+        },
+        {
+          "quality": "480p",
+          "size": "500 MB",
+          "dl": "https://firebasestorage.googleapis.com/v0/b/light-lacing-247408.appspot.com/o/bolle%2FGood%20Newz%2FHDMovieshub.club%20-%20Good%20Newwz.480p.AMZN.WEB-DL.DDP5.1.H.264.mkv?alt=media&token=2d363e6d-71bf-476a-a739-585c095c88cc"
         }
       ]
     },
