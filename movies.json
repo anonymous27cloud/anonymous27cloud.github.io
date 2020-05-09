@@ -81,14 +81,25 @@
       {
         "quality": "720p",
         "size": "1 GB",
+        "dl": "https://firebasestorage.googleapis.com/v0/b/t-operative-273515.appspot.com/o/Update%20%2FExtraction%20%2FExtraction.2020.720p.WEB.DL.Hindi.English.HDMovieshub.de.mkv?alt=media&token=fe45a642-50be-4b10-95e4-6fb2cca25d44"
+      },
+      {
+        "quality": "480p",
+        "size": "500 MB",
         "dl": "https://firebasestorage.googleapis.com/v0/b/t-operative-273515.appspot.com/o/Update%20%2FExtraction%20%2FHDMoviesHub.de%20-%20EXTRACTION%20(2020)%20HDRip%20-%20Org%20[Tel%20%2B%20Tam%20%2B%20Hin]%20-%20450MB%20-%20ESub.mkv?alt=media&token=52021f0a-f290-4123-aae2-bb2c95f618bf"
       }
+
     ]
 },
   {
     "name": "Ip Man 4: The Finale",
     "image": "https://m.media-amazon.com/images/M/MV5BNzYyZWIwZjQtZGVjZi00NWIxLTk0ODMtNzA3YzE5MWM3OWI0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
     "links": [
+      {
+        "quality": "720p",
+        "size": "0.95 GB",
+        "dl": "https://firebasestorage.googleapis.com/v0/b/vicky-4a848.appspot.com/o/vicky%20fixing%2F5th%20April%20%2Fip%20man%204%20%2FIP.Man.4.2019.720p.HDRip.English.HDMoviesHUBZ.in.mkv?alt=media&token=c2e28469-2ac5-4b9e-96d0-9b521932db5e"
+      },
       {
         "quality": "480p",
         "size": "330 MB",
