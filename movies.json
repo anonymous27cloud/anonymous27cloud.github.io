@@ -211,7 +211,7 @@
       ]
     },
     {
-      "name": "Good Newz",
+      "name": "Good Newwz",
       "image": "https://m.media-amazon.com/images/M/MV5BNWQzNGQxY2YtNWZjOC00MGU4LTgzNTUtODliOGQzYTkxYzM1XkEyXkFqcGdeQXVyMTA5NzIyMDY5._V1_QL50_SY1000_CR0,0,691,1000_AL_.jpg",
       "links": [
         {
@@ -231,9 +231,14 @@
       "image": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
       "links": [
         {
-          "quality": "720p",
-          "size": "992 MB",
-          "dl": "https://www.googleapis.com/drive/v3/files/1U0zE6j3T23Pp2msyESbb9Pp1tuyuA4hi?alt=media&key=AIzaSyAmxUhrr9XIPIVTW8QSZZO8CmQKk8g0gy8"
+          "quality": "720pBR",
+          "size": "750 MB",
+          "dl": "https://firebasestorage.googleapis.com/v0/b/verdant-doodad-250906.appspot.com/o/Bharat%20-%20Update%20[No%2018%2B%20Here]%2FAvengers%20Endgame%2FAvengers.Endgame.2019.720p.BrRip.Hin-Eng.x265.HubflixHD.in.mkv?alt=media&token=3ade9bee-31a6-40c5-8e36-498d7aa852eb"
+        },
+        {
+          "quality": "480pBR",
+          "size": "580 MB",
+          "dl": "https://firebasestorage.googleapis.com/v0/b/verdant-doodad-250906.appspot.com/o/Bharat%20-%20Update%20[No%2018%2B%20Here]%2FAvengers%20Endgame%2FAvengers.Endgame.2019.BRRip.480p.ORG.Hindi.Dual-Audio.x264.ESub-HubflixHD.in.mkv?alt=media&token=fc586a96-ae91-4ea0-bbdd-bd442be59bc0"
         }
       ]
     },
