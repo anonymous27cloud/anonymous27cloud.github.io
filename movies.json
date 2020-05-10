@@ -43,6 +43,28 @@
     ]
   },
   {
+    "name": "Shubh Mangal Zyada Saavdhan",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTNhOWM4Y2MtZDhjNC00ZTZmLWJkMDUtNGE4Nzg2MzhmMzY0XkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_QL50_SY1000_SX800_AL_.jpg",
+    "links": [
+       {
+        "quality": "720p",
+        "size": "1 GB",
+        "dl": "https://firebasestorage.googleapis.com/v0/b/serious-trainer-272616.appspot.com/o/1%2FM%2FShubh.Mangal.Jyada.Savdhaan%2FShubh.Mangal.Zyada.Saavdhan.720p.HDRip.themoviesflix.in.mkv?alt=media&token=f556dddc-da4b-44e1-b6db-50c94b6b77a6"
+      }
+    ]
+  },
+  {
+    "name": "Dil Diyan Gallan",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTIxNDY1ZDUtNDNlMi00NzNjLWEwYjQtMzU0MTY4M2RmZGZmXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL50_SY1000_CR0,0,749,1000_AL_.jpg",
+    "links": [
+       {
+        "quality": "720p",
+        "size": "540 MB",
+        "dl": "https://firebasestorage.googleapis.com/v0/b/webseries-ad115.appspot.com/o/2019%2Fpunjabi%2FDiyan%20Gallan%20(2019)%2FDil%20Diyan%20Gallan%20(2019)%20FilmyGod%20Punjabi%20720p%20HEVC%20HDTVRip%20x265.mkv?alt=media&token=27676cb0-c0a7-48ed-b4d1-1901946cc2be"
+      }
+    ]
+  },
+  {
   "name": "Sonic the Hedgehog",
   "image": "https://m.media-amazon.com/images/M/MV5BMDk5Yzc4NzMtODUwOS00NTdhLTg2MjEtZTkzZjc0ZWE2MzAwXkEyXkFqcGdeQXVyMTA3MTA4Mzgw._V1_QL50_SY1000_CR0,0,666,1000_AL_.jpg",
   "links": [
@@ -55,6 +77,33 @@
       "quality": "720p",
       "size": "0.85 GB",
       "dl": "https://firebasestorage.googleapis.com/v0/b/light-lacing-247408.appspot.com/o/bolle%2FGulity%20and%20I%2FSonic.The.Hedgehog.2020.720p.HC.HDRip.English.Esubs.HDMovieshub.cc.mkv?alt=media&token=7e52319c-3c67-4c6a-8a90-4edc764c539c"
+    }
+  ]
+},
+{
+  "name": "K.G.F: Chapter 1",
+  "image": "https://m.media-amazon.com/images/M/MV5BNDIwMDYxY2UtM2NhYy00NzkwLThhNDYtY2IxZGZhNjYyNmM2XkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_UY268_CR8,0,182,268_AL__QL50.jpg",
+  "links": [
+     {
+      "quality": "720p",
+      "size": "1.13 GB",
+      "dl": "https://firebasestorage.googleapis.com/v0/b/green-link-272616.appspot.com/o/1%2FM%2FK.G.F%2FK.G.F.720p.HDRip.themoviesflix.in.mkv?alt=media&token=938b4bb9-1d32-4c22-8081-b510eab430d3"
+    },
+    {
+      "quality": "480p",
+      "size": "450 MB",
+      "dl": "https://firebasestorage.googleapis.com/v0/b/green-link-272616.appspot.com/o/1%2FM%2FK.G.F%2FK.G.F.480p.HDRip.themoviesflix.in.mkv?alt=media&token=e6cce076-a64d-4e27-9de0-0c2718089ac3"
+    }
+  ]
+},
+{
+  "name": "War",
+  "image": "https://m.media-amazon.com/images/M/MV5BNTlmNDMzOWQtYzg4Ny00OWQ0LWFhN2MtNmQ2MDczZGZhNTU5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR7,0,182,268_AL__QL50.jpg",
+  "links": [
+     {
+      "quality": "1080p",
+      "size": "1.1 GB",
+      "dl": "https://firebasestorage.googleapis.com/v0/b/green-link-272616.appspot.com/o/1%2FM%2Fwar%2FWar.720.themoviesflix.mkv.mkv?alt=media&token=8a476e45-95c7-4fa1-8f05-f4787aafd566"
     }
   ]
 },
