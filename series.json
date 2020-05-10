@@ -1,4 +1,97 @@
-[
+[{
+  "name": "Euphoria",
+  "image": "https://m.media-amazon.com/images/M/MV5BMDMzZDkyNzEtYTY5Ni00NzlhLWI4MzUtY2UzNjNmMjI1YzIzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL50_.jpg",
+  "seasons":
+  [
+    {
+      "seasonno": "1",
+      "episodes": 
+      [
+        {
+          "episodeno": "1",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "256 MB",
+              "dl": "https://firebasestorage.googleapis.com/v0/b/verdant-medium-246117.appspot.com/o/Update%2FEuphoria%20us%20season%201%2FEuphoria.US.S01E01.Pilot.720p.WEBRip.2CH.x265.HEVC-Hubflix.me.mkv?alt=media&token=7047685a-2101-4961-9901-a886aba6de07"
+  
+            }
+          ]
+        },
+        {
+          "episodeno": "2",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "294 MB",
+              "dl": "https://firebasestorage.googleapis.com/v0/b/verdant-medium-246117.appspot.com/o/Update%2FEuphoria%20us%20season%201%2FEuphoria.US.S01E02.Stuntin.720p.WEBRip.2CH.x265.HEVC-Hubflix.me.mkv?alt=media&token=6b057d32-eb3f-45da-9847-167fc4fa0110"
+            }
+          ]
+        },
+        {
+          "episodeno": "3",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "300 MB",
+              "dl": "https://firebasestorage.googleapis.com/v0/b/verdant-medium-246117.appspot.com/o/Update%2FEuphoria%20us%20season%201%2FEuphoria.US.S01E03.Made.You.Look.720p.WEBRip.2CH.x265.HEVC-Hubflix.me.mkv?alt=media&token=6b0194b7-7e0e-4fff-94e2-e192735fdeb9"
+            }
+          ]
+        },
+        {
+          "episodeno": "4",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "297 MB",
+              "dl": "https://firebasestorage.googleapis.com/v0/b/verdant-medium-246117.appspot.com/o/Update%2FEuphoria%20us%20season%201%2FEuphoria.US.S01E04.Shook.One.Pt.II.720p.WEBRip.2CH.x265.HEVC-Hubflix.me.mkv?alt=media&token=b4f96eb6-f34a-48c0-904f-76d61a695f02"
+            }
+          ]
+        },
+        {
+          "episodeno": "5",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "260 MB",
+              "dl": "https://firebasestorage.googleapis.com/v0/b/verdant-medium-246117.appspot.com/o/Update%2FEuphoria%20us%20season%201%2FEuphoria.US.S01E05.'03.Bonnie.and.Clyde.720p.WEBRip.2CH.x265.HEVC-Hubflix.me.mkv?alt=media&token=ce98e7f2-0546-42e2-ae71-4b645892967c"
+            }
+          ]
+        },
+        {
+          "episodeno": "6",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "246 MB",
+              "dl": "https://firebasestorage.googleapis.com/v0/b/verdant-medium-246117.appspot.com/o/Update%2FEuphoria%20us%20season%201%2FEuphoria.US.S01E06.The.Next.Episode.720p.WEBRip.2CH.x265.HEVC-Hubflix.me.mkv?alt=media&token=cfd22d92-cba4-4bc9-8446-dc7ae29ff926"
+            }
+          ]
+        },
+        {
+          "episodeno": "7",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "320 MB",
+              "dl": "https://firebasestorage.googleapis.com/v0/b/verdant-medium-246117.appspot.com/o/Update%2FEuphoria%20us%20season%201%2FEuphoria.US.S01E07.The.Trials.720p.WEBRip.2CH.x265.HEVC-Hubflix.me.mkv?alt=media&token=e3018358-2e96-47fa-9877-2b3aa97e7951"
+            }
+          ]
+        },
+        {
+          "episodeno": "8",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "327 MB",
+              "dl": "https://firebasestorage.googleapis.com/v0/b/verdant-medium-246117.appspot.com/o/Update%2FEuphoria%20us%20season%201%2FEuphoria.US.S01E08.And.Salt.the.Earth.Behind.You.720p.WEBRip.2CH.x265.HEVC-Hubflix.me.mkv?alt=media&token=24514e44-5c66-4315-8cc2-c450689bd36c"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  },
   {
     "name": "Hasmukh",
     "image": "https://m.media-amazon.com/images/M/MV5BMzNkNTZhZDQtZjQ5OC00NTE1LWI2ODItODU0YTRlM2JhZDE3XkEyXkFqcGdeQXVyMTA4NTc3NTQx._V1_QL50_SY1000_CR0,0,713,1000_AL_.jpg",
