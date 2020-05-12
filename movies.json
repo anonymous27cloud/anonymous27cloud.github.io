@@ -1,5 +1,21 @@
 [
   {
+    "name": "Joker [HIN]",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTYyNzk3MDc2NF5BMl5BanBnXkFtZTgwMDk3OTM1NDM@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
+    "links": [
+      {
+        "quality": "720p",
+        "size": "1 GB",
+        "dl": "https://firebasestorage.googleapis.com/v0/b/rare-cubist-246817.appspot.com/o/Bharat%2FJoker%2FJoker.2019.720p.WEB-DL.Hindi.Dub.Dual-Audio.HDmovieshub.pw.mkv?alt=media&token=9920321b-02c4-4a49-b37c-1cec7ba77b60"
+      },
+      {
+        "quality": "480p",
+        "size": "315 MB",
+        "dl": "https://firebasestorage.googleapis.com/v0/b/rare-cubist-246817.appspot.com/o/Bharat%2FJoker%2Fhindi%2FJoker.2019.HC.480p.HDRip.HINDI.DUB.Dual-Audio.1XBET-HDmovieshub.me.mkv?alt=media&token=bf8f3527-972c-44c3-ad6d-2cd38e7b3c6d"
+      }
+    ]
+  },
+  {
     "name": "Maze Runner: The Death Cure [HIN+ENG]",
     "image": "https://m.media-amazon.com/images/M/MV5BMTYyNzk3MDc2NF5BMl5BanBnXkFtZTgwMDk3OTM1NDM@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
     "links": [
