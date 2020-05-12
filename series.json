@@ -1,5 +1,89 @@
 [
   {
+    "name": "Bard of Blood",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjAzZGI0MDctMTgyYi00NDgwLWFmMjgtNTIyMmZhN2FkM2YxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
+    "seasons":
+    [
+      {
+        "seasonno": "1",
+        "episodes": 
+        [
+          {
+            "episodeno": "1",
+            "links": [
+              {
+                "quality": "720p",
+                "size": "415 MB",
+                "dl": "https://firebasestorage.googleapis.com/v0/b/serious-trainer-272616.appspot.com/o/1%2FS%2FBard.Of.Blood.s1.720p%2FBard.Of.Blood.S01E01.mkv?alt=media&token=1de15cab-04a1-43ce-a25b-4672d7bf4d9b"
+    
+              }
+            ]
+          },
+          {
+            "episodeno": "2",
+            "links": [
+              {
+                "quality": "720p",
+                "size": "410 MB",
+                "dl": "https://firebasestorage.googleapis.com/v0/b/serious-trainer-272616.appspot.com/o/1%2FS%2FBard.Of.Blood.s1.720p%2FBard.Of.Blood.S01E02.mkv?alt=media&token=faaadd34-1081-4b62-b37b-bd1001b7985f"
+              }
+            ]
+          },
+          {
+            "episodeno": "3",
+            "links": [
+              {
+                "quality": "720p",
+                "size": "385 MB",
+                "dl": "https://firebasestorage.googleapis.com/v0/b/serious-trainer-272616.appspot.com/o/1%2FS%2FBard.Of.Blood.s1.720p%2FBard.Of.Blood.S01E03.mkv?alt=media&token=1c1ecfb2-c107-497b-b8df-7a2866002eee"
+              }
+            ]
+          },
+          {
+            "episodeno": "4",
+            "links": [
+              {
+                "quality": "720p",
+                "size": "440 MB",
+                "dl": "https://firebasestorage.googleapis.com/v0/b/serious-trainer-272616.appspot.com/o/1%2FS%2FBard.Of.Blood.s1.720p%2FBard.Of.Blood.S01E04.mkv?alt=media&token=14a73f29-3bd2-41c4-949f-088356066352"
+              }
+            ]
+          },
+          {
+            "episodeno": "5",
+            "links": [
+              {
+                "quality": "720p",
+                "size": "190 MB",
+                "dl": "https://firebasestorage.googleapis.com/v0/b/serious-trainer-272616.appspot.com/o/1%2FS%2FBard.Of.Blood.s1.720p%2FBard.Of.Blood.S01E05.mkv?alt=media&token=be79aa52-c449-4ce2-9053-38343093f76e"
+              }
+            ]
+          },
+          {
+            "episodeno": "6",
+            "links": [
+              {
+                "quality": "720p",
+                "size": "350 MB",
+                "dl": "https://firebasestorage.googleapis.com/v0/b/serious-trainer-272616.appspot.com/o/1%2FS%2FBard.Of.Blood.s1.720p%2FBard.Of.Blood.S01E06.mkv?alt=media&token=51b8232c-3cb9-4ef6-b057-2616c90f15d1"
+              }
+            ]
+          },
+          {
+            "episodeno": "7",
+            "links": [
+              {
+                "quality": "720p",
+                "size": "360 MB",
+                "dl": "https://firebasestorage.googleapis.com/v0/b/serious-trainer-272616.appspot.com/o/1%2FS%2FBard.Of.Blood.s1.720p%2FBard.Of.Blood.S01E07.mkv?alt=media&token=27a1c328-7ccd-450a-a2b5-a670d30b7d3b"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+    },
+  {
     "name": "The Forgotten Army - Azaadi ke liye",
     "image": "https://m.media-amazon.com/images/M/MV5BMTg0OWI4OTEtZTYwOC00ODkzLWE3OGQtM2NmMGQxNGYxMDcyXkEyXkFqcGdeQXVyODQ5NDUwMDk@._V1_QL50_SY1000_SX750_AL_.jpg",
     "seasons":
