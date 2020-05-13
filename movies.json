@@ -1,5 +1,53 @@
 [
   {
+    "name": "Shooter",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGRjMzY0OGItNDc4YS00OGNlLWI3MGYtZjRkNjdiNWUyNDY4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL50_SY1000_CR0,0,673,1000_AL_.jpg",
+    "links": [
+      {
+        "quality": "720p",
+        "size": "1.2 GB",
+        "dl": "https://firebasestorage.googleapis.com/v0/b/webseries-ad115.appspot.com/o/punjabi%2F220%2FShooter%20(2020)%2FShooter%20(2020)%20Punjabi%20CBRip%20x264%20AAC.mkv?alt=media&token=006683a4-0dbe-44bc-8130-907e009d5ef7"
+      },
+      {
+        "quality": "480p",
+        "size": "460 MB",
+        "dl": "https://firebasestorage.googleapis.com/v0/b/webseries-ad115.appspot.com/o/punjabi%2F220%2FShooter%20(2020)%2FShooter%20(2021)%20Punjabi%20480p%20CBRip%20x264%20AAC.mkv?alt=media&token=5a727f03-2b6d-4373-8b38-ed2040013644"
+      }
+    ]
+  },
+  {
+    "name": "Gangs of Wasseypur part 2",
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/58/Gangs_of_wasseypur_II.jpg",
+    "links": [
+      {
+        "quality": "720p",
+        "size": "1.4 GB",
+        "dl": "https://firebasestorage.googleapis.com/v0/b/bolly-c8e2f.appspot.com/o/bollywood%2Fold%2F2012%2FGangs%20of%20Wasseypur%20(2012)%20Part%202%2FGangs%20of%20Wasseypur%20Part%202%202012%20%5BFilmyGod%5D%20BluRay%20Hindi%20720p%20x264%20AAC%205.1%20ESub.mkv?alt=media&token=911e3bd8-d7be-4e33-93e5-f478e92c10c8"
+      },
+      {
+        "quality": "480p",
+        "size": "430 MB",
+        "dl": "https://firebasestorage.googleapis.com/v0/b/bolly-c8e2f.appspot.com/o/bollywood%2Fold%2F2012%2FGangs%20of%20Wasseypur%20(2012)%20Part%202%2FGangs%20of%20Wasseypur%20Part%202%202012%20%5BFilmyGod%5D%20BluRay%20Hindi%20480p%20ESub.mkv?alt=media&token=cbeb9d3d-fe07-4084-ab3d-eca6463ff807"
+      }
+    ]
+  },
+  {
+    "name": "Gangs of Wasseypur part 1",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc5NjY4MjUwNF5BMl5BanBnXkFtZTgwODM3NzM5MzE@._V1_QL50_SY1000_CR0,0,675,1000_AL_.jpg",
+    "links": [
+      {
+        "quality": "720p",
+        "size": "1.4 GB",
+        "dl": "https://firebasestorage.googleapis.com/v0/b/bolly-c8e2f.appspot.com/o/bollywood%2Fold%2F2012%2FGangs%20of%20Wasseypur%20(2012)%20Part%201%2FGangs%20of%20Wasseypur%20Part%201%202012%20%5BFilmyGod%5D%20%20BluRay%20Hindi%20720p%20x264%20AAC%205.1%20ESub.mkv?alt=media&token=93fb74a0-0b22-46f4-93c9-c2b639fe7bf2"
+      },
+      {
+        "quality": "480p",
+        "size": "430 MB",
+        "dl": "https://firebasestorage.googleapis.com/v0/b/bolly-c8e2f.appspot.com/o/bollywood%2Fold%2F2012%2FGangs%20of%20Wasseypur%20(2012)%20Part%201%2FGangs%20of%20Wasseypur%20Part%201%202012%20%5BFilmyGod%5D%20%20BluRay%20Hindi%20480p%20ESub.mkv?alt=media&token=37cf82ec-9e35-49c9-be02-a84eca90b83c"
+      }
+    ]
+  },
+  {
     "name": "Joker [HIN]",
     "image": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
     "links": [
