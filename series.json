@@ -1,9 +1,116 @@
 [
   {
-    "name": "You",
+    "name": "You [HIN+ENG]",
     "image": "https://m.media-amazon.com/images/M/MV5BZDJjOTg4OWYtYWIyOS00MjQ3LTg5ZDktYzU2N2RkNmYzNjZlXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_QL50_SY1000_CR0,0,690,1000_AL_.jpg",
     "seasons":
     [
+      {
+        "seasonno": "2",
+        "episodes": 
+        [
+          {
+            "episodeno": "1",
+            "links": [
+              {
+                "quality": "720p",
+                "size": "280 MB",
+                "dl": "https://firebasestorage.googleapis.com/v0/b/avid-glass-242211.appspot.com/o/3%2FYou%2FS02%2FYou.S02E01.720p.Hindi.English.MoviezFlix.org.mkv?alt=media&token=4eaa26ef-7fda-431c-b0c2-7161a7afb657"
+    
+              }
+            ]
+          },
+          {
+            "episodeno": "2",
+            "links": [
+              {
+                "quality": "720p",
+                "size": "273 MB",
+                "dl": "https://firebasestorage.googleapis.com/v0/b/avid-glass-242211.appspot.com/o/3%2FYou%2FS02%2FYou.S02E02.720p.Hindi.English.MoviezFlix.org.mkv?alt=media&token=063b4f43-665d-49aa-b778-2435c64bac5e"
+              }
+            ]
+          },
+          {
+            "episodeno": "3",
+            "links": [
+              {
+                "quality": "720p",
+                "size": "267 MB",
+                "dl": "https://firebasestorage.googleapis.com/v0/b/avid-glass-242211.appspot.com/o/3%2FYou%2FS02%2FYou.S02E03.720p.Hindi.English.MoviezFlix.org.mkv?alt=media&token=a2615981-02a8-4fc0-960f-08979cea9d1b"
+              }
+            ]
+          },
+          {
+            "episodeno": "4",
+            "links": [
+              {
+                "quality": "720p",
+                "size": "225 MB",
+                "dl": "https://firebasestorage.googleapis.com/v0/b/avid-glass-242211.appspot.com/o/3%2FYou%2FS02%2FYou.S02E04.720p.Hindi.English.MoviezFlix.org.mkv?alt=media&token=0b05c36c-17ef-49a5-bea5-e0a2adc67061"
+              }
+            ]
+          },
+          {
+            "episodeno": "5",
+            "links": [
+              {
+                "quality": "720p",
+                "size": "314 MB",
+                "dl": "https://firebasestorage.googleapis.com/v0/b/avid-glass-242211.appspot.com/o/3%2FYou%2FS02%2FYou.S02E05.720p.Hindi.English.MoviezFlix.org.mkv?alt=media&token=3a79729f-d27d-494a-ae24-f0212fcdcc7f"
+              }
+            ]
+          },
+          {
+            "episodeno": "6",
+            "links": [
+              {
+                "quality": "720p",
+                "size": "253 MB",
+                "dl": "https://firebasestorage.googleapis.com/v0/b/avid-glass-242211.appspot.com/o/3%2FYou%2FS02%2FYou.S02E06.720p.Hindi.English.MoviezFlix.org.mkv?alt=media&token=7edd6c90-f784-4222-ad5a-698e6b6ba07b"
+              }
+            ]
+          },
+          {
+            "episodeno": "7",
+            "links": [
+              {
+                "quality": "720p",
+                "size": "268 MB",
+                "dl": "https://firebasestorage.googleapis.com/v0/b/avid-glass-242211.appspot.com/o/3%2FYou%2FS02%2FYou.S02E07.720p.Hindi.English.MoviezFlix.org.mkv?alt=media&token=53b00d7d-ccb3-4b42-9435-e3fde113d30f"
+              }
+            ]
+          },
+          {
+            "episodeno": "8",
+            "links": [
+              {
+                "quality": "720p",
+                "size": "208 MB",
+                "dl": "https://firebasestorage.googleapis.com/v0/b/avid-glass-242211.appspot.com/o/3%2FYou%2FS02%2FYou.S02E08.720p.Hindi.English.MoviezFlix.org.mkv?alt=media&token=0963b0b0-e371-486c-95bb-82dbfdebcdd8"
+              }
+            ]
+          },
+          {
+            "episodeno": "9",
+            "links": [
+              {
+                "quality": "720p",
+                "size": "211 MB",
+                "dl": "https://firebasestorage.googleapis.com/v0/b/avid-glass-242211.appspot.com/o/3%2FYou%2FS02%2FYou.S02E09.720p.Hindi.English.MoviezFlix.org.mkv?alt=media&token=8e937b54-e076-445c-a1c3-8f6896fe4805"
+              }
+            ]
+          },
+          {
+            "episodeno": "10",
+            "links": [
+              {
+                "quality": "720p",
+                "size": "260 MB",
+                "dl": "https://firebasestorage.googleapis.com/v0/b/avid-glass-242211.appspot.com/o/3%2FYou%2FS02%2FYou.S02E10.720p.Hindi.English.MoviezFlix.org.mkv?alt=media&token=db0fd4fc-f547-4f54-bab6-c8667ff1f34f"
+              }
+            ]
+          }
+        ]
+      },
       {
         "seasonno": "1",
         "episodes": 
