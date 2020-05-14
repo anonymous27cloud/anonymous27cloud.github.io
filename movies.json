@@ -1,5 +1,49 @@
 [
   {
+    "name": "Maska [HIN+ENG]",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTE4NGRiNDgtOWFjZC00MmU1LWI5ZjctMWNkMGMyNDNjOWQ1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL50_.jpg",
+    "links": [
+       {
+        "quality": "720p",
+        "size": "1.25 GB",
+        "dl": "https://firebasestorage.googleapis.com/v0/b/light-lacing-247408.appspot.com/o/bolle%2FRelink%2FMaska%2FMaska%20(2020)%20NF%20Original%20720p%20WEBRip%20Dual%20Audio%20[%20Hindi%2B%20English]%20DD-5.1%20Esub%20x264%20-%20[Hdmovieshub.de].mkv?alt=media&token=c8377756-e2e7-40e4-a14a-5b6398333a7d"
+      }
+    ]
+  },
+  {
+    "name": "Fifty Shades Freed [HIN+ENG]",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTYxOTQ1MzI0Nl5BMl5BanBnXkFtZTgwMzgwMzIxNDM@._V1_QL50_SY1000_CR0,0,631,1000_AL_.jpg",
+    "links": [
+       {
+        "quality": "720pBR",
+        "size": "1 GB",
+        "dl": "https://firebasestorage.googleapis.com/v0/b/rare-cubist-246817.appspot.com/o/Bharat%2FFifty%20Shades%20Freed%2FFifty.Shades.Freed.2018.720p.BRRip.Hindi.Dual-Audio.HDMovieshub.club.mkv?alt=media&token=baf740c5-841e-4b82-8497-773e939ad061"
+      }
+    ]
+  },
+  {
+    "name": "Fifty Shades Darker [HIN+ENG]",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ5NTk0Njg2N15BMl5BanBnXkFtZTgwNzk5Nzk3MDI@._V1_QL50_SY1000_CR0,0,631,1000_AL_.jpg",
+    "links": [
+       {
+        "quality": "720p",
+        "size": "1.11 GB",
+        "dl": "https://firebasestorage.googleapis.com/v0/b/verdant-doodad-250906.appspot.com/o/Bharat%20-%20Update%20[No%2018%2B%20Here]%2FFifty%20Shades%2FShades_Fifty.Shade.Darker.(2017).720p.(Hindi-English).HDmovieshub.club.mkv?alt=media&token=e662ec09-e91c-49fd-8e01-4c024462c02e"
+      }
+    ]
+  },
+  {
+    "name": "Fifty Shades of Grey  [HIN+ENG]",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjE1MTM4NDAzOF5BMl5BanBnXkFtZTgwNTMwNjI0MzE@._V1_QL50_SY1000_CR0,0,631,1000_AL_.jpg",
+    "links": [
+       {
+        "quality": "720pBR",
+        "size": "950 MB",
+        "dl": "https://firebasestorage.googleapis.com/v0/b/verdant-doodad-250906.appspot.com/o/Bharat%20-%20Update%20[No%2018%2B%20Here]%2FFifity%20Shdes%20of%20grey%2FFifty.Shades.of.Grey.2015.UNRATED.720p.BRRip.HINDI.DUB.x264-Hubflixhd.in.mkv?alt=media&token=723eb47a-4932-4421-b7ef-b56a57b6b38f"
+      }
+    ]
+  },
+  {
     "name": "Contagion",
     "image": "https://m.media-amazon.com/images/M/MV5BMTY3MDk5MDc3OV5BMl5BanBnXkFtZTcwNzAyNTg0Ng@@._V1_QL50_SY1000_CR0,0,676,1000_AL_.jpg",
     "links": [
@@ -75,7 +119,7 @@
     ]
   },
   {
-    "name": "Joker [HIN+ENG]",
+    "name": "Joker [HIN]",
     "image": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
     "links": [
       {
@@ -139,7 +183,7 @@
   ]
 },
   {
-  "name": "Intersteller [HIN+ENG]",
+  "name": "Intersteller",
   "image": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL50_SY1000_SX675_AL_.jpg",
   "links": [
     {
@@ -155,7 +199,7 @@
   ]
 },
   {
-  "name": "Doctor Sleep[HIN+ENG]",
+  "name": "Doctor Sleep",
   "image": "https://m.media-amazon.com/images/M/MV5BYmY3NGJlYTItYmQ4OS00ZTEwLWIzODItMjMzNWU2MDE0NjZhXkEyXkFqcGdeQXVyMzQzMDA3MTI@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
   "links": [
      {
