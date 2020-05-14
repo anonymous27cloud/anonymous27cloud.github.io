@@ -1,11 +1,65 @@
 [
   {
+    "name": "Sherlock",
+    "image": "https://m.media-amazon.com/images/M/MV5BMWY3NTljMjEtYzRiMi00NWM2LTkzNjItZTVmZjE0MTdjMjJhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTQ4NTc5OTU@._V1_QL50_.jpg",
+    "seasons":
+    [
+      {
+        "seasonno": "1",
+        "episodes": 
+        [
+          {
+            "episodeno": "0",
+            "links": [
+              {
+                "quality": "720p",
+                "size": "220 MB",
+                "dl": "https://firebasestorage.googleapis.com/v0/b/hunk-tv.appspot.com/o/Webseries%2FGlobal%2FSherlock%2FSeason%201%2FHunkTVapk.com%20%20-%20Sherlock.S01E00.480p.BRRip.x264.mkv?alt=media&token=f50d7417-3f8c-46af-b021-54c362ab4b89"
+    
+              }
+            ]
+          },
+          {
+            "episodeno": "1",
+            "links": [
+              {
+                "quality": "720p",
+                "size": "300 MB",
+                "dl": "https://firebasestorage.googleapis.com/v0/b/hunk-tv.appspot.com/o/Webseries%2FGlobal%2FSherlock%2FSeason%201%2FHunkTVapk.com%20-%20%20Sherlock.S01E01.480p.BRRip.mkv?alt=media&token=16346601-300c-416a-b63e-d35b2d29878e"
+              }
+            ]
+          },
+          {
+            "episodeno": "2",
+            "links": [
+              {
+                "quality": "720p",
+                "size": "300 MB",
+                "dl": "https://firebasestorage.googleapis.com/v0/b/hunk-tv.appspot.com/o/Webseries%2FGlobal%2FSherlock%2FSeason%201%2FHunkTVapk.com%20-%20%20Sherlock.S01E02.480p.BRRip.mkv?alt=media&token=39100151-7692-4bf6-b8d5-667cd5492664"
+              }
+            ]
+          },
+          {
+            "episodeno": "3",
+            "links": [
+              {
+                "quality": "720p",
+                "size": "300 MB",
+                "dl": "https://firebasestorage.googleapis.com/v0/b/hunk-tv.appspot.com/o/Webseries%2FGlobal%2FSherlock%2FSeason%201%2FHunkTVapk.com%20-%20%20Sherlock.S01E03.480p.BRRip.mkv?alt=media&token=f4501e82-3f81-4829-afc3-5875f3e993e2"
+              }
+            ]
+          }  
+        ]
+      }
+    ]
+    },
+  {
     "name": "Game of Thrones",
     "image": "https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_QL50_SY1000_CR0,0,734,1000_AL_.jpg",
     "seasons":
     [
       {
-        "seasonno": "1 [HIN+ENG]",
+        "seasonno": "1",
         "episodes": 
         [
           {
