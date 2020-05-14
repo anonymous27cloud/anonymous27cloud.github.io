@@ -4,9 +4,41 @@
     "image": "https://m.media-amazon.com/images/M/MV5BMWY3NTljMjEtYzRiMi00NWM2LTkzNjItZTVmZjE0MTdjMjJhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTQ4NTc5OTU@._V1_QL50_.jpg",
     "seasons":
     [{
-      "seasonno": "2",
+      "seasonno": "3",
       "episodes": 
       [
+        {
+          "episodeno": "1",
+          "links": [
+            {
+              "quality": "480pBR",
+              "size": "350 MB",
+              "dl": "https://firebasestorage.googleapis.com/v0/b/hunk-tv.appspot.com/o/Webseries%2FGlobal%2FSherlock%2FSeason%203%2FHunkTVapk.com%20%20-%20Sherlock.S03E01.480p_x264.mkv?alt=media&token=1305eb3b-194f-4391-b81d-5ed95a3eefda"
+            }
+          ]
+        },
+        {
+          "episodeno": "2",
+          "links": [
+            {
+              "quality": "480pBR",
+              "size": "300 MB",
+              "dl": "https://firebasestorage.googleapis.com/v0/b/hunk-tv.appspot.com/o/Webseries%2FGlobal%2FSherlock%2FSeason%203%2FHunkTVapk.com%20%20-%20Sherlock.S03E02.480p_x264.mkv?alt=media&token=1d23009a-b6fc-4975-b60b-8bd32c4f1c1c"
+            }
+          ]
+        },
+        {
+          "episodeno": "3",
+          "links": [
+            {
+              "quality": "480pBR",
+              "size": "350 MB",
+              "dl": "https://firebasestorage.googleapis.com/v0/b/hunk-tv.appspot.com/o/Webseries%2FGlobal%2FSherlock%2FSeason%203%2FHunkTVapk.com%20%20-%20Sherlock.S03E03.480p_x264.mkv?alt=media&token=b583825c-9231-4fa0-aae9-c1fd573b3b10"
+            }
+          ]
+        }  
+      ]
+    },
         {
           "episodeno": "1",
           "links": [
@@ -47,7 +79,7 @@
             "episodeno": "0",
             "links": [
               {
-                "quality": "720p",
+                "quality": "480pBR",
                 "size": "220 MB",
                 "dl": "https://firebasestorage.googleapis.com/v0/b/hunk-tv.appspot.com/o/Webseries%2FGlobal%2FSherlock%2FSeason%201%2FHunkTVapk.com%20%20-%20Sherlock.S01E00.480p.BRRip.x264.mkv?alt=media&token=f50d7417-3f8c-46af-b021-54c362ab4b89"
     
@@ -58,7 +90,7 @@
             "episodeno": "1",
             "links": [
               {
-                "quality": "720p",
+                "quality": "480pBR",
                 "size": "300 MB",
                 "dl": "https://firebasestorage.googleapis.com/v0/b/hunk-tv.appspot.com/o/Webseries%2FGlobal%2FSherlock%2FSeason%201%2FHunkTVapk.com%20-%20%20Sherlock.S01E01.480p.BRRip.mkv?alt=media&token=16346601-300c-416a-b63e-d35b2d29878e"
               }
@@ -68,7 +100,7 @@
             "episodeno": "2",
             "links": [
               {
-                "quality": "720p",
+                "quality": "480pBR",
                 "size": "300 MB",
                 "dl": "https://firebasestorage.googleapis.com/v0/b/hunk-tv.appspot.com/o/Webseries%2FGlobal%2FSherlock%2FSeason%201%2FHunkTVapk.com%20-%20%20Sherlock.S01E02.480p.BRRip.mkv?alt=media&token=39100151-7692-4bf6-b8d5-667cd5492664"
               }
