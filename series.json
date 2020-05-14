@@ -1,6 +1,119 @@
-[
+[{
+  "name": "Spinning Out [HIN+ENG] ",
+  "image": "https://m.media-amazon.com/images/M/MV5BNzc1MjM5ODgtZGNlYy00ZjhjLTk3MGItYTJiZWMwYWNkOWY0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL50_SY1000_CR0,0,675,1000_AL_.jpg",
+  "seasons":
+  [
+    {
+      "seasonno": "1",
+      "episodes": 
+      [
+        {
+          "episodeno": "1",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "280 MB",
+              "dl": "https://firebasestorage.googleapis.com/v0/b/avid-glass-242211.appspot.com/o/7%2FSpinning.Out%2FSpinning.Out.S01E01.720p.Hindi.English.MoviezFlix.org.mkv?alt=media&token=a3f79ee5-0e7c-49c2-b6e5-9ee232ee77fb"
+  
+            }
+          ]
+        },
+        {
+          "episodeno": "2",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "277 MB",
+              "dl": "https://firebasestorage.googleapis.com/v0/b/avid-glass-242211.appspot.com/o/7%2FSpinning.Out%2FSpinning.Out.S01E02.720p.Hindi.English.MoviezFlix.org.mkv?alt=media&token=e1e7d5f8-3804-493c-a786-f18251d046b7"
+            }
+          ]
+        },
+        {
+          "episodeno": "3",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "240 MB",
+              "dl": "https://firebasestorage.googleapis.com/v0/b/avid-glass-242211.appspot.com/o/7%2FSpinning.Out%2FSpinning.Out.S01E03.720p.Hindi.English.MoviezFlix.org.mkv?alt=media&token=b25a7b7a-bce8-4dc8-a90e-d00946d26d2f"
+            }
+          ]
+        },
+        {
+          "episodeno": "4",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "250 MB",
+              "dl": "https://firebasestorage.googleapis.com/v0/b/avid-glass-242211.appspot.com/o/7%2FSpinning.Out%2FSpinning.Out.S01E04.720p.Hindi.English.MoviezFlix.org.mkv?alt=media&token=40842470-ebfd-4889-809d-12bdb49d7e56"
+            }
+          ]
+        },
+        {
+          "episodeno": "5",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "260 MB",
+              "dl": "https://firebasestorage.googleapis.com/v0/b/avid-glass-242211.appspot.com/o/7%2FSpinning.Out%2FSpinning.Out.S01E05.720p.Hindi.English.MoviezFlix.org.mkv?alt=media&token=fe9999d3-102a-4e0e-886e-5ba5f3595413"
+            }
+          ]
+        },
+        {
+          "episodeno": "6",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "250 MB",
+              "dl": "https://firebasestorage.googleapis.com/v0/b/avid-glass-242211.appspot.com/o/7%2FSpinning.Out%2FSpinning.Out.S01E06.720p.Hindi.English.MoviezFlix.org.mkv?alt=media&token=512aa942-3776-4347-9ed7-3f6c5f2100a4"
+            }
+          ]
+        },
+        {
+          "episodeno": "7",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "250 MB",
+              "dl": "https://firebasestorage.googleapis.com/v0/b/avid-glass-242211.appspot.com/o/7%2FSpinning.Out%2FSpinning.Out.S01E07.720p.Hindi.English.MoviezFlix.org.mkv?alt=media&token=2b314068-393c-4413-9671-717e41087b1c"
+            }
+          ]
+        },
+        {
+          "episodeno": "8",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "270 MB",
+              "dl": "https://firebasestorage.googleapis.com/v0/b/avid-glass-242211.appspot.com/o/7%2FSpinning.Out%2FSpinning.Out.S01E08.720p.Hindi.English.MoviezFlix.org.mkv?alt=media&token=eeaa56fe-dd3d-4907-a19e-be255631169e"
+            }
+          ]
+        },
+        {
+          "episodeno": "9",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "214 MB",
+              "dl": "https://firebasestorage.googleapis.com/v0/b/avid-glass-242211.appspot.com/o/7%2FSpinning.Out%2FSpinning.Out.S01E09.720p.Hindi.English.MoviezFlix.org.mkv?alt=media&token=edd10c62-123f-46ad-a752-cb4d2d66259a"
+            }
+          ]
+        },
+        {
+          "episodeno": "10",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "310 MB",
+              "dl": "https://firebasestorage.googleapis.com/v0/b/avid-glass-242211.appspot.com/o/7%2FSpinning.Out%2FSpinning.Out.S01E10.720p.Hindi.English.MoviezFlix.org.mkv?alt=media&token=b4b48e56-4f09-4222-a5a9-ca19effc5d96"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  },
   {
-    "name": "The Witcher [HIN+ENG]",
+    "name": "The Witcher",
     "image": "https://m.media-amazon.com/images/M/MV5BOGE4MmVjMDgtMzIzYy00NjEwLWJlODMtMDI1MGY2ZDlhMzE2XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
     "seasons":
     [
