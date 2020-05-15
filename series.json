@@ -1,5 +1,96 @@
 [
   {
+    "name": "Paatal Lok",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTE5NWUyMmYtMWE1My00ZDhiLWExZjEtMGJjYTA0OGYwZjIwXkEyXkFqcGdeQXVyODQ5NDUwMDk@._V1_QL50_.jpg",
+    "seasons":[
+      {
+        "seasonno": "1",
+        "episodes":[
+          {
+            "episodeno": "1",
+            "links": [
+              {
+                "quality": "720p",
+                "size": "300 MB",
+                "dl": "https://firebasestorage.googleapis.com/v0/b/light-lacing-247408.appspot.com/o/bolle%2FPatallok.season.1%2FHDmovieshub.de.Paatal.Lok.E01.Bridges.mkv?alt=media&token=176e777a-aaf1-49fa-a6df-11c8c0daf02e"
+              }
+            ]
+          },
+          {
+            "episodeno": "2",
+            "links": [
+              {
+                "quality": "720p",
+                "size": "300 MB",
+                "dl": "https://firebasestorage.googleapis.com/v0/b/light-lacing-247408.appspot.com/o/bolle%2FPatallok.season.1%2FHDMovieshub.de.Paatal.Lok%20E02.Lost.&.Found.mkv?alt=media&token=21c41348-b9f4-4028-96ed-b0b57645aa21"
+              }
+            ]
+          },
+          {
+            "episodeno": "3",
+            "links": [
+              {
+                "quality": "720p",
+                "size": "405 MB",
+                "dl": "https://firebasestorage.googleapis.com/v0/b/light-lacing-247408.appspot.com/o/bolle%2FPatallok.season.1%2FHDMovieshub.de.Paatal.Lok%20E02.Lost.&.Found.mkv?alt=media&token=21c41348-b9f4-4028-96ed-b0b57645aa21"
+              }
+            ]
+          },
+          {
+            "episodeno": "4",
+            "links": [
+              {
+                "quality": "720p",
+                "size": "290 MB",
+                "dl": "https://firebasestorage.googleapis.com/v0/b/light-lacing-247408.appspot.com/o/bolle%2FPatallok.season.1%2FHDMovieshub.de.Paatal.Lok.E04.Sleepless.In.Silapur.mkv?alt=media&token=25260761-578f-4567-b9bd-0012a0d45c92"
+              }
+            ]
+          },
+          {
+            "episodeno": "5",
+            "links": [
+              {
+                "quality": "720p",
+                "size": "270 MB",
+                "dl": "https://firebasestorage.googleapis.com/v0/b/light-lacing-247408.appspot.com/o/bolle%2FPatallok.season.1%2FHDMovieshub.de.[S01.E05].Paatal%20Lok.Of.fathers.and.sons.English.mkv?alt=media&token=33cdb9b5-eb2f-4fa3-b0b3-0c0970fc7cbe"
+              }
+            ]
+          },
+          {
+            "episodeno": "6",
+            "links": [
+              {
+                "quality": "720p",
+                "size": "325 MB",
+                "dl": "https://firebasestorage.googleapis.com/v0/b/light-lacing-247408.appspot.com/o/bolle%2FPatallok.season.1%2FHDmovieshub.de.[S01.E06].Paatal.Lok.The.past.is.prologue.mkv?alt=media&token=73697b64-1b02-48d6-ae42-99c0a7b7df2c"
+              }
+            ]
+          },
+          {
+            "episodeno": "7",
+            "links": [
+              {
+                "quality": "720p",
+                "size": "335 MB",
+                "dl": "https://firebasestorage.googleapis.com/v0/b/light-lacing-247408.appspot.com/o/bolle%2FPatallok.season.1%2FHDMovieshub.de.[S01.E07].Paatal.Lok.Badlands.English.mkv?alt=media&token=53b37e2b-6716-488f-90e8-e9a5faf03e2e"
+              }
+            ]
+          },
+          {
+            "episodeno": "8",
+            "links": [
+              {
+                "quality": "720p",
+                "size": "300 MB",
+                "dl": "https://firebasestorage.googleapis.com/v0/b/light-lacing-247408.appspot.com/o/bolle%2FPatallok.season.1%2FHDMovieshub.de.[S01.E07].Paatal.Lok.Badlands.English.mkv?alt=media&token=53b37e2b-6716-488f-90e8-e9a5faf03e2e"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Ozark [HIN+ENG]",
     "image": "https://m.media-amazon.com/images/M/MV5BM2Q3MjQ3NDAtZDk4NS00MDIwLTllZGUtMmY1ZDU2OTJkNGY2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL50_SY1000_SX675_AL_.jpg",
     "seasons":
@@ -15,7 +106,6 @@
                 "quality": "720p",
                 "size": "165 MB",
                 "dl": "https://firebasestorage.googleapis.com/v0/b/avid-glass-242211.appspot.com/o/8%2FOzark%2FOzark.S01E01.720p.Hindi.English.MoviezFlix.Co.in.mkv?alt=media&token=7b4c608f-eed8-4364-9224-0003e8105fb3"
-    
               }
             ]
           },
