@@ -1,5 +1,16 @@
 [
   {
+    "name": "Avatar [HIN+ENG]",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_QL50_.jpg",
+    "links": [
+      {
+        "quality": "720pBR",
+        "size": "1.2 GB",
+        "dl": "https://firebasestorage.googleapis.com/v0/b/light-lacing-247408.appspot.com/o/Bharatveer%2FAvatar%2FAvatar%20(2009)%20BluRay%20720p%20Dual%20Audio%20(Hin-Eng)%20%5BHubflix.in%5D.mkv?alt=media&token=c2c9c43e-81c8-4d5d-b334-d776e8973ef4"
+      }
+    ]
+  },
+  {
     "name": "The Lord of the Rings: The Return of the King [HIN+ENG]",
     "image": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL50_SY1000_CR0,0,675,1000_AL_.jpg",
     "links": [
@@ -48,7 +59,7 @@
     ]
   },
   {
-    "name": "Forrest Gump [HIN+ENG]",
+    "name": "Forrest Gump",
     "image": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL50_.jpg",
     "links": [
       {
