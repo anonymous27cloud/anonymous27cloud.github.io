@@ -194,6 +194,110 @@
       }
     ]
     },
+    {
+      "name": "Mirzapur",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWUyYWNiODItNjdmNS00ZDhlLWE0YjQtNGEyMDg3ODJiMTM3XkEyXkFqcGdeQXVyODQ5NDUwMDk@._V1_QL50_.jpg",
+      "seasons":
+      [
+        {
+          "seasonno": "1",
+          "episodes": 
+          [
+            {
+              "episodeno": "1",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "430 MB",
+                  "dl": "https://firebasestorage.googleapis.com/v0/b/green-link-272616.appspot.com/o/1%2FS%2FMirzapur%2FMirzapur.2018.S01.E01.720p.HDRip.Themoviesflix.in.mkv.mkv?alt=media&token=887c1a52-1ffb-4723-80fe-fa2326f6e1ce"
+      
+                }
+              ]
+            },
+            {
+              "episodeno": "2",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "360 MB",
+                  "dl": "https://firebasestorage.googleapis.com/v0/b/green-link-272616.appspot.com/o/1%2FS%2FMirzapur%2FMirzapur.2018.S01.E02.720p.HDRip.Themoviesflix.in.mkv.mkv?alt=media&token=0a2499bb-c3f0-491c-8d35-57464e68f870"
+                }
+              ]
+            },
+            {
+              "episodeno": "3",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "350 MB",
+                  "dl": "https://firebasestorage.googleapis.com/v0/b/green-link-272616.appspot.com/o/1%2FS%2FMirzapur%2FMirzapur.2018.S01.E03.720p.HDRip.Themoviesflix.in.mkv.mkv?alt=media&token=990fe7a3-4af2-4775-9159-6a3e6df0d8c2"
+                }
+              ]
+            },
+            {
+              "episodeno": "4",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "340 MB",
+                  "dl": "https://firebasestorage.googleapis.com/v0/b/green-link-272616.appspot.com/o/1%2FS%2FMirzapur%2FMirzapur.2018.S01.E04.720p.HDRip.Themoviesflix.in.mkv.mkv?alt=media&token=bb5b9674-63a3-41de-9f5c-4fc30593a24e"
+                }
+              ]
+            },
+            {
+              "episodeno": "5",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "380 MB",
+                  "dl": "https://firebasestorage.googleapis.com/v0/b/green-link-272616.appspot.com/o/1%2FS%2FMirzapur%2FMirzapur.2018.S01.E05.720p.HDRip.Themoviesflix.in.mkv.mkv?alt=media&token=383f297f-1bd2-4fd7-8cbc-145f0b062553"
+                }
+              ]
+            },
+            {
+              "episodeno": "6",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "390 MB",
+                  "dl": "https://firebasestorage.googleapis.com/v0/b/green-link-272616.appspot.com/o/1%2FS%2FMirzapur%2FMirzapur.2018.S01.E06.720p.HDRip.Themoviesflix.in.mkv.mkv?alt=media&token=481f0de2-a840-436f-8df0-bd20436bc6ca"
+                }
+              ]
+            },
+            {
+              "episodeno": "7",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "435 MB",
+                  "dl": "https://firebasestorage.googleapis.com/v0/b/green-link-272616.appspot.com/o/1%2FS%2FMirzapur%2FMirzapur.2018.S01.E07.720p.HDRip.Themoviesflix.in.mkv.mkv?alt=media&token=ac9c5088-ebe5-4e19-af37-5a9dda01301a"
+                }
+              ]
+            },
+            {
+              "episodeno": "8",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "390 MB",
+                  "dl": "https://firebasestorage.googleapis.com/v0/b/green-link-272616.appspot.com/o/1%2FS%2FMirzapur%2FMirzapur.2018.S01.E08.720p.HDRip.Themoviesflix.in.mkv.mkv?alt=media&token=01463def-7d47-4bff-ac65-22904875d0f9"
+                }
+              ]
+            },
+            {
+              "episodeno": "9",
+              "links": [
+                {
+                  "quality": "720p",
+                  "size": "390 MB",
+                  "dl": "https://firebasestorage.googleapis.com/v0/b/green-link-272616.appspot.com/o/1%2FS%2FMirzapur%2FMirzapur.2018.S01.E09.720p.HDRip.Themoviesflix.in.mkv.mkv?alt=media&token=e6c439f5-daef-45e5-81f2-e5616a895e98"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+      },
   {
     "name": "Jamtara: Sabka Number Ayega ",
     "image": "https://m.media-amazon.com/images/M/MV5BNWM1OGE2MmItZWUzZi00OGY5LThhMmQtZmJjZmJlYmQ5NTkwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL50_.jpg",
