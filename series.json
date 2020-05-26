@@ -51,6 +51,34 @@
     ]
   },
   {
+    "name": "Baarish",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDg5MTYzZWEtNTFmNy00YWRkLWI0MzctMzAwZjk1Yjk2OWY5XkEyXkFqcGdeQXVyODI2MzM0MTM@._V1_QL50_SY1000_CR0,0,694,1000_AL_.jpg",
+    "seasons":
+    [
+      {
+        "seasonno": "2",
+        "episodes": 
+        [
+          {
+            "episodeno": "All Episodes",
+            "links": [
+              {
+                "quality": "720p",
+                "size": "2.2 GB",
+                "dl": "https://bit.ly/3fCi9zX"
+              },
+              {
+                "quality": "480p",
+                "size": "600 MB",
+                "dl": "https://bit.ly/3dyKRjf"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+    },
+  {
     "name": "Paatal Lok",
     "image": "https://m.media-amazon.com/images/M/MV5BMTE5NWUyMmYtMWE1My00ZDhiLWExZjEtMGJjYTA0OGYwZjIwXkEyXkFqcGdeQXVyODQ5NDUwMDk@._V1_QL50_.jpg",
     "seasons":[
