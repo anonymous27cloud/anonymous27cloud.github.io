@@ -81,28 +81,6 @@
     }
   ]
 },
-{
-  "name": "Star Wars: Episode II - Attack of the Clones [HIN+ENG]",
-  "image": "https://m.media-amazon.com/images/M/MV5BMDAzM2M0Y2UtZjRmZi00MzVlLTg4MjEtOTE3NzU5ZDVlMTU5XkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_QL50_SY999_CR0,0,659,999_AL_.jpg",
-  "links": [
-    {
-      "quality": "720p",
-      "size": "1 GB",
-      "dl": "https://firebasestorage.googleapis.com/v0/b/engaged-iridium-244407.appspot.com/o/StarWars%2FStar.Wars.Episode.II.Attack.Of.The.Clones.(2002).720p.(Hin-Eng-Tam).%5BMoviesKiDuniya.CoM%5D.mkv?alt=media&token=234843c9-4519-46f0-9ebf-c842e9c1c1ec"
-    }
-  ]
-},
-{
-  "name": "Star Wars: Episode I - The Phantom Menace [HIN+ENG]",
-  "image": "https://m.media-amazon.com/images/M/MV5BYTRhNjcwNWQtMGJmMi00NmQyLWE2YzItODVmMTdjNWI0ZDA2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_QL50_SY999_SX666_AL_.jpg",
-  "links": [
-    {
-      "quality": "720p",
-      "size": "950 MB",
-      "dl": "https://firebasestorage.googleapis.com/v0/b/engaged-iridium-244407.appspot.com/o/StarWars%2FStar.Wars.Episode.I.The.Phantom.Menace.(1999).720p.(Hin-Eng-Tam).%5BMoviesKiDuniya.CoM%5D.mkv?alt=media&token=25faaea0-ccc5-40b3-aef8-a120cad919a2"
-    }
-  ]
-},
   {
   "name": "Independence Day (1996) [HIN+ENG]",
   "image": "https://m.media-amazon.com/images/M/MV5BMGQwNDNkMmItYWY1Yy00YTZmLWE5OTAtODU0MGZmMzQ1NDdkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL50_SY1000_CR0,0,666,1000_AL_.jpg",
@@ -670,22 +648,6 @@
     ]
   },
   {
-    "name": "The Lion King [HIN+ENG]",
-    "image": "https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
-    "links": [
-      {
-        "quality": "720pBR",
-        "size": "1.15 GB",
-        "dl": "https://firebasestorage.googleapis.com/v0/b/rare-cubist-246817.appspot.com/o/Bharat%2FThe%20Lion%20King%2FThe.Lion.King.2019.720p.Hindi.English.Hdmovieshub.pw.mkv?alt=media&token=1432f071-5c1c-40ce-a183-93431096442c"
-      },
-      {
-        "quality": "480pBR",
-        "size": "390 MB",
-        "dl": "https://firebasestorage.googleapis.com/v0/b/rare-cubist-246817.appspot.com/o/Bharat%2FThe%20Lion%20King%2FThe.Lion.King.2019.480p.Hindi.English.Hdmovieshub.pw.mkv?alt=media&token=c1c5dfd1-2b36-4367-a92e-3372f178716a"
-      }
-    ]
-  },
-  {
     "name": "The Grudge(2020)",
     "image": "https://m.media-amazon.com/images/M/MV5BMjY3NWZmOTktMmVhZi00M2Q1LTg2MmQtOGE2NmE3MWNlZjY3XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_QL50_SY1000_CR0,0,675,1000_AL_.jpg",
     "links": [
@@ -707,71 +669,7 @@
       }
     ]
   },
-  {
-      "name": "Mardaani 2",
-      "image": "https://m.media-amazon.com/images/M/MV5BNWZhYTc4M2ItNDc3NS00NjIxLWEzNWMtZWIyNDgzMmUwZWM3XkEyXkFqcGdeQXVyMTkzOTcxOTg@._V1_QL50_SY1000_CR0,0,744,1000_AL_.jpg",
-      "links": [
-        {
-          "quality": "720pBR",
-          "size": "1 GB",
-          "dl": "https://firebasestorage.googleapis.com/v0/b/light-lacing-247408.appspot.com/o/18%2B%20%2F15%2FMardaani%20(2014)%20720p%20BluRay%20x264%20AAC%201GB%20-HDmovieshub.club.mkv?alt=media&token=f66320bb-7bbe-4a4d-a18b-04d0c86a8b88"
-        },
-        {
-          "quality": "480pBR",
-          "size": "500 MB",
-          "dl": "https://firebasestorage.googleapis.com/v0/b/light-lacing-247408.appspot.com/o/18%2B%20%2F15%2FMardaani%20(2014)%20480p%20BluRay%20x264%20AAC%20490MB%20-HDmovieshub.club.mkv?alt=media&token=90fbfeb0-137b-4d1e-9c54-d3a678874e5d"
-        }
-
-      ]
-    },
-    {
-      "name": "Good Newwz",
-      "image": "https://m.media-amazon.com/images/M/MV5BNWQzNGQxY2YtNWZjOC00MGU4LTgzNTUtODliOGQzYTkxYzM1XkEyXkFqcGdeQXVyMTA5NzIyMDY5._V1_QL50_SY1000_CR0,0,691,1000_AL_.jpg",
-      "links": [
-        {
-          "quality": "720p",
-          "size": "850 MB",
-          "dl": "https://firebasestorage.googleapis.com/v0/b/light-lacing-247408.appspot.com/o/bolle%2FGood%20Newz%2FHDMovieshub.club%20-%20Good%20Newwz.720p.AMZN.WEB-DL.800MB.H.264.mkv?alt=media&token=7884a6e6-5200-470c-8bbf-c8cba83ca442"
-        },
-        {
-          "quality": "480p",
-          "size": "500 MB",
-          "dl": "https://firebasestorage.googleapis.com/v0/b/light-lacing-247408.appspot.com/o/bolle%2FGood%20Newz%2FHDMovieshub.club%20-%20Good%20Newwz.480p.AMZN.WEB-DL.DDP5.1.H.264.mkv?alt=media&token=2d363e6d-71bf-476a-a739-585c095c88cc"
-        }
-      ]
-    },
-    {
-      "name": "Avengers Endgame [HIN+ENG]",
-      "image": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
-      "links": [
-        {
-          "quality": "720pBR",
-          "size": "750 MB",
-          "dl": "https://firebasestorage.googleapis.com/v0/b/verdant-doodad-250906.appspot.com/o/Bharat%20-%20Update%20[No%2018%2B%20Here]%2FAvengers%20Endgame%2FAvengers.Endgame.2019.720p.BrRip.Hin-Eng.x265.HubflixHD.in.mkv?alt=media&token=3ade9bee-31a6-40c5-8e36-498d7aa852eb"
-        },
-        {
-          "quality": "480pBR",
-          "size": "580 MB",
-          "dl": "https://firebasestorage.googleapis.com/v0/b/verdant-doodad-250906.appspot.com/o/Bharat%20-%20Update%20[No%2018%2B%20Here]%2FAvengers%20Endgame%2FAvengers.Endgame.2019.BRRip.480p.ORG.Hindi.Dual-Audio.x264.ESub-HubflixHD.in.mkv?alt=media&token=fc586a96-ae91-4ea0-bbdd-bd442be59bc0"
-        }
-      ]
-    },
-    {
-      "name": "The Shawshank Redemption [HIN+ENG]",
-      "image": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL50_.jpg",
-      "links": [
-        {
-          "quality": "720p",
-          "size": "970 MB",
-          "dl": "https://firebasestorage.googleapis.com/v0/b/verdant-doodad-250906.appspot.com/o/Bharat%20-%20Update%20[No%2018%2B%20Here]%2FThe%20Shawshank%20Redemption%2FThe%20Shawshank%20Redemption%20(1994)%20720p%20Dual%20Audio%20(Hin-Eng)%20[HDmovieshub.club].mkv?alt=media&token=1d8dd50b-1565-4d6e-a0f8-4bf9299563de"
-        },
-        {
-          "quality": "480p",
-          "size": "540 MB",
-          "dl": "https://firebasestorage.googleapis.com/v0/b/verdant-doodad-250906.appspot.com/o/Bharat%20-%20Update%20[No%2018%2B%20Here]%2FThe%20Shawshank%20Redemption%2FThe.Shawshank.Redemption.(1994).480p.(Hindi-English).HDMovieshub.club.mkv?alt=media&token=6b954b58-ef79-46b5-a1a5-696887622feb"
-        }
-      ]
-    },
+  
     {
       "name": "Race 3",
       "image": "https://m.media-amazon.com/images/M/MV5BMzQ4ZTc5ZTItYWRhNi00YTJjLWI4NGMtNjA0ODQ1ZDQxNzkyXkEyXkFqcGdeQXVyNjc4NjAxMzM@._V1_QL50_SY1000_SX750_AL_.jpg",
