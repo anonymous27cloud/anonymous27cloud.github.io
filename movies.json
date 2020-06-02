@@ -1,27 +1,5 @@
 [
   {
-    "name": "Parasite",
-    "image": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
-    "links": [
-      {
-        "quality": "720pBR",
-        "size": "750 MB",
-        "dl": "https://firebasestorage.googleapis.com/v0/b/t-operative-273515.appspot.com/o/randeep%2Ffix%2Fparasite%2FParasite.2019.720p.HEVC.BluRay.Hindi..Korean.HDMoviesHub.mobi.mkv?alt=media&token=cfb1dbce-a60c-457b-b3aa-be30feea002d"
-      }
-    ]
-  },
-  {
-    "name": " The Grudge",
-    "image": "https://m.media-amazon.com/images/M/MV5BMjY3NWZmOTktMmVhZi00M2Q1LTg2MmQtOGE2NmE3MWNlZjY3XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_QL50_SY1000_CR0,0,675,1000_AL_.jpg",
-    "links": [
-      {
-        "quality": "720p",
-        "size": "850 MB",
-        "dl": "http://srv1.ptvcdn.top/media.php?f78fd7c7e481b3f4952da60a51b21fca/ni1wl42uek6c7u6/Pocket%20TV%20-%20The%20Grudge%20(2020)%20English%20HDRip%20-%20720p%20-%20x264%20-%20AAC%20-%20800MB%20-%20ESub.mkv"
-      }
-    ]
-  },
-  {
     "name": "The High Note",
     "image": "https://m.media-amazon.com/images/M/MV5BNmJjNGM0MWYtOTIwOS00NTEzLThhMWUtMzI4YzBjOGM0YmRlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
     "links": [
@@ -89,6 +67,17 @@
       "quality": "720p",
       "size": "800 MB",
       "dl": "https://firebasestorage.googleapis.com/v0/b/engaged-iridium-244407.appspot.com/o/Twilight%2FTwilight.(2008).720p.Dual.Audio.(Hin-Eng).%5BMovieskiDuniya.CoM%5D.mkv?alt=media&token=c873c334-7f9e-4fb2-9141-f403dcf194cf"
+    }
+  ]
+},
+{
+  "name": "Parasite",
+  "image": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
+  "links": [
+    {
+      "quality": "720pBR",
+      "size": "750 MB",
+      "dl": "https://firebasestorage.googleapis.com/v0/b/t-operative-273515.appspot.com/o/randeep%2Ffix%2Fparasite%2FParasite.2019.720p.HEVC.BluRay.Hindi..Korean.HDMoviesHub.mobi.mkv?alt=media&token=cfb1dbce-a60c-457b-b3aa-be30feea002d"
     }
   ]
 },
