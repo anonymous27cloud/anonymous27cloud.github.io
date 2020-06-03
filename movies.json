@@ -1,4 +1,48 @@
-[ {
+[{
+  "name": "Zootopia [HIN+ENG]",
+  "image": "https://m.media-amazon.com/images/M/MV5BOTMyMjEyNzIzMV5BMl5BanBnXkFtZTgwNzIyNjU0NzE@._V1_QL50_SY1000_SX675_AL_.jpg",
+  "links": [
+    {
+      "quality": "720pBR",
+      "size": "900 MB",
+      "dl": "https://firebasestorage.googleapis.com/v0/b/original-spider-278500.appspot.com/o/Update%2F1june%2FZootopia.2016.720p.BluRay.Hindi-English.x264-HDMovieshub.de.mkv?alt=media&token=3ae72107-8f34-42bc-b8a6-e529f602c754"
+    }
+  ]
+},
+{
+  "name": "Another Soul [HIN+ENG]",
+  "image": "https://m.media-amazon.com/images/M/MV5BYzk3YTc1M2EtOTEwZi00Y2NmLWE1MDEtMjliNDRiMmMwZDU1XkEyXkFqcGdeQXVyNDAzODEzMTk@._V1_QL50_SY1000_CR0,0,642,1000_AL_.jpg",
+  "links": [
+    {
+      "quality": "720pBR",
+      "size": "1 GB",
+      "dl": "https://firebasestorage.googleapis.com/v0/b/original-spider-278500.appspot.com/o/Update%2FAnother%20Soul%2FAnother.Soul.2018.720p.BluRay.Hindi.Dual-Audio.x264-HDmovieshub.de.mkv?alt=media&token=1bc1b70e-9f0b-4fce-bc67-8120327982ad"
+    }
+  ]
+},
+{
+  "name": "The Droving [HIN+ENG]",
+  "image": "https://m.media-amazon.com/images/M/MV5BMGZkY2RiNzUtY2VkYS00N2Y5LWJiZTMtY2Q1NjExNzNhNjAxXkEyXkFqcGdeQXVyNTQ0NzY0MTk@._V1_QL50_SY1000_SX750_AL_.jpg",
+  "links": [
+    {
+      "quality": "720pBR",
+      "size": "720 MB",
+      "dl": "https://firebasestorage.googleapis.com/v0/b/original-spider-278500.appspot.com/o/Update%2FThe.Droving%2FThe.Droving.2020.720p.HDRip.Hindi.Dub.Dual-Audio.x264-HDMovieshub.de.mkv?alt=media&token=61ed4140-aabc-4e45-883a-2fd656bf64d8"
+    }
+  ]
+},
+{
+  "name": "Rough Night [HIN+ENG]",
+  "image": "https://m.media-amazon.com/images/M/MV5BODY1NDUzNzY4MV5BMl5BanBnXkFtZTgwNzc3NzcyMjI@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
+  "links": [
+    {
+      "quality": "720pBR",
+      "size": "650 MB",
+      "dl": "https://firebasestorage.googleapis.com/v0/b/t-operative-273515.appspot.com/o/Update%20%2FRough%20Night%2FRough.Night.2017.720p.BluRay.Hindi-Eng.x265.HEVC-HDMovieshub.de.mkv?alt=media&token=18eca611-8c11-4df2-9262-d85405adfdd3"
+    }
+  ]
+},
+   {
   "name": "Scoob ",
   "image": "https://m.media-amazon.com/images/M/MV5BNTM5YWZiMzQtNDQxZS00ODI0LWJjNTQtZmQ3OWU3Njg4NWYyXkEyXkFqcGdeQXVyNzc4NTU3Njg@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
   "links": [
