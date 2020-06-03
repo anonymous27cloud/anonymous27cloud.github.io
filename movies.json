@@ -75,6 +75,17 @@
     }
   ]
 },
+{
+  "name": "The Shawshank Redemption [HIN+ENG]",
+  "image": "https://m.media-amazon.com/images/M/MV5BOTMyMjEyNzIzMV5BMl5BanBnXkFtZTgwNzIyNjU0NzE@._V1_QL50_SY1000_SX675_AL_.jpg",
+  "links": [
+    {
+      "quality": "720p",
+      "size": "1.04 GB",
+      "dl": "https://firebasestorage.googleapis.com/v0/b/calcium-aria-244410.appspot.com/o/3%2FShawshank%2FThe.Shawshank.Redemption.(1994).720p.(Hindi-English).%5BMoviesFlix.NeT%5D.mkv?alt=media&token=3f09a864-2686-48a8-a484-2fdf56000697"
+    }
+  ]
+},
   
   {
     "name": "The High Note",
