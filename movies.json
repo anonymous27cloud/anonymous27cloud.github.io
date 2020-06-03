@@ -10,6 +10,28 @@
   ]
 },
 {
+  "name": "Scoob ",
+  "image": "https://m.media-amazon.com/images/M/MV5BNTM5YWZiMzQtNDQxZS00ODI0LWJjNTQtZmQ3OWU3Njg4NWYyXkEyXkFqcGdeQXVyNzc4NTU3Njg@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
+  "links": [
+    {
+      "quality": "720p",
+      "size": "900 MB",
+      "dl": "https://firebasestorage.googleapis.com/v0/b/t-operative-273515.appspot.com/o/Update%20%2FScoob.2020%2FHDmovieshub.de.Scoob.2020.720p.WEB-DL.mkv?alt=media&token=afa04321-0a4c-47c1-a090-abdc2454563b"
+    }
+  ]
+},
+{
+  "name": "Malang",
+  "image": "https://m.media-amazon.com/images/M/MV5BMDJiMDQyYTItZTA0NC00NmVlLTg3NGItMjQwOWI2ZjY0MmE5XkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_QL50_SY1000_SX750_AL_.jpg",
+  "links": [
+    {
+      "quality": "720p",
+      "size": "800 MB",
+      "dl": "https://firebasestorage.googleapis.com/v0/b/serious-trainer-272616.appspot.com/o/1%2FM%2FMalang%2FMalang.720p.themoviesflix.in.mkv?alt=media&token=4d178547-e751-45f8-b0d3-b491083e6b12"
+    }
+  ]
+},
+{
   "name": "Another Soul [HIN+ENG]",
   "image": "https://m.media-amazon.com/images/M/MV5BYzk3YTc1M2EtOTEwZi00Y2NmLWE1MDEtMjliNDRiMmMwZDU1XkEyXkFqcGdeQXVyNDAzODEzMTk@._V1_QL50_SY1000_CR0,0,642,1000_AL_.jpg",
   "links": [
@@ -39,28 +61,6 @@
       "quality": "720pBR",
       "size": "650 MB",
       "dl": "https://firebasestorage.googleapis.com/v0/b/t-operative-273515.appspot.com/o/Update%20%2FRough%20Night%2FRough.Night.2017.720p.BluRay.Hindi-Eng.x265.HEVC-HDMovieshub.de.mkv?alt=media&token=18eca611-8c11-4df2-9262-d85405adfdd3"
-    }
-  ]
-},
-   {
-  "name": "Scoob ",
-  "image": "https://m.media-amazon.com/images/M/MV5BNTM5YWZiMzQtNDQxZS00ODI0LWJjNTQtZmQ3OWU3Njg4NWYyXkEyXkFqcGdeQXVyNzc4NTU3Njg@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
-  "links": [
-    {
-      "quality": "720p",
-      "size": "900 MB",
-      "dl": "https://firebasestorage.googleapis.com/v0/b/t-operative-273515.appspot.com/o/Update%20%2FScoob.2020%2FHDmovieshub.de.Scoob.2020.720p.WEB-DL.mkv?alt=media&token=afa04321-0a4c-47c1-a090-abdc2454563b"
-    }
-  ]
-},
-{
-  "name": "Malang",
-  "image": "https://m.media-amazon.com/images/M/MV5BMDJiMDQyYTItZTA0NC00NmVlLTg3NGItMjQwOWI2ZjY0MmE5XkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_QL50_SY1000_SX750_AL_.jpg",
-  "links": [
-    {
-      "quality": "720p",
-      "size": "800 MB",
-      "dl": "https://firebasestorage.googleapis.com/v0/b/serious-trainer-272616.appspot.com/o/1%2FM%2FMalang%2FMalang.720p.themoviesflix.in.mkv?alt=media&token=4d178547-e751-45f8-b0d3-b491083e6b12"
     }
   ]
 },
