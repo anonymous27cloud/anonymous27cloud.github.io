@@ -162,6 +162,27 @@
     ]
   },
   {
+    "name": "Gullak",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTg5N2NiMTgtZmI3ZS00ODBlLWFhZjgtYWNjZWFlYjk1ZjI3XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL50_SY1000_CR0,0,706,1000_AL_.jpg",
+    "seasons":[
+      {
+        "seasonno":"1",
+        "episodes":[
+          {
+            "episodeno":"- All in One",
+            "links":[
+              {
+                "quality":"720p",
+                "size":"1.4 GB",
+                "dl": "https://m.media-amazon.com/images/M/MV5BOTg5N2NiMTgtZmI3ZS00ODBlLWFhZjgtYWNjZWFlYjk1ZjI3XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL50_SY1000_CR0,0,706,1000_AL_.jpg"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Phone a Friend",
     "image": "https://m.media-amazon.com/images/M/MV5BMGFjY2Q3YjktNTNmOS00ODMyLWI3MzUtY2YwM2RkMzM3M2Q0XkEyXkFqcGdeQXVyMTE2MjIwNDgz._V1_QL50_.jpg",
     "seasons":[
