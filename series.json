@@ -3015,6 +3015,66 @@
             ]
           }
         ]
+      },
+      {
+        "seasonno":"2",
+        "episodes":[
+          {
+            "episodeno": "1-5",
+            "links":[
+              {
+                "quality": "720p",
+                "size": "790 MB",
+                "dl": "https://bit.ly/2A5UF68"
+              }
+            ]
+          },
+          {
+            "episodeno": "6-9",
+            "links":[
+              {
+                "quality": "720p",
+                "size": "651 MB",
+                "dl": "https://bit.ly/2Aafn4U"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "seasonno":"1",
+        "episodes":[
+          {
+            "episodeno": "1-4",
+            "links":[
+              {
+                "quality": "720p",
+                "size": "682 MB",
+                "dl": "https://bit.ly/3enzU4N"
+              }
+            ]
+          },
+          {
+            "episodeno": "5-9",
+            "links":[
+              {
+                "quality": "720p",
+                "size": "790 MB",
+                "dl": "https://bit.ly/2zr1Jdm"
+              }
+            ]
+          },
+          {
+            "episodeno": "10-13",
+            "links":[
+              {
+                "quality": "720p",
+                "size": "700 MB",
+                "dl": "https://bit.ly/3d0EzJn"
+              }
+            ]
+          }
+        ]
       }
     ]
   }
