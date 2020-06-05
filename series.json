@@ -1,4 +1,188 @@
-[
+[{
+  "name": "13 Reasons Why [HIN+ENG]",
+  "image": "https://m.media-amazon.com/images/M/MV5BMDYzZTRlNGEtZDc2Mi00ZGNjLTlmZDAtMmVjMDZkOThiODEwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL50_SY1000_CR0,0,675,1000_AL_.jpg",
+  "seasons":[ {
+      "seasonno":"4",
+      "episodes": [
+        {
+          "episodeno": "1",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "340 MB",
+              "dl": "https://firebasestorage.googleapis.com/v0/b/original-spider-278500.appspot.com/o/Update%2F13.Reason.why.S04%2F13.Reasons.Why.S04E01.720p.10bit.WEB-DL.Hin-Eng.x265.HEVC-HDMovieshub.de.mkv?alt=media&token=07d019e9-6542-4327-8ec4-eae83e9901c1"
+            }
+          ]
+        },
+        {
+          "episodeno": "2",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "335 MB",
+              "dl": "https://firebasestorage.googleapis.com/v0/b/original-spider-278500.appspot.com/o/Update%2F13.Reason.why.S04%2F13.Reasons.Why.S04E02.720p.10bit.WEB-DL.Hin-Eng.x265.HEVC-HDMovieshub.de.mkv?alt=media&token=0472d630-54ef-4eee-a2fa-486f4a65a189"
+            }
+          ]
+        },
+        {
+          "episodeno": "3",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "346 MB",
+              "dl": "https://firebasestorage.googleapis.com/v0/b/original-spider-278500.appspot.com/o/Update%2F13.Reason.why.S04%2F13.Reasons.Why.S04E03.720p.10bit.WEB-DL.Hin-Eng.x265.HEVC-HDMovieshub.de.mkv?alt=media&token=c620ed52-81b9-4bce-935a-d1c3099ced3f"
+            }
+          ]
+        },
+        {
+          "episodeno": "4",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "334 MB",
+              "dl": "https://firebasestorage.googleapis.com/v0/b/original-spider-278500.appspot.com/o/Update%2F13.Reason.why.S04%2F13.Reasons.Why.S04E04.720p.10bit.WEB-DL.Hin-Eng.x265.HEVC-HDMovieshub.de.mkv?alt=media&token=d447d886-71c5-4e4e-8cd3-0775aa878e48"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "seasonno":"3",
+      "episodes": [
+        {
+          "episodeno": "1",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "340 MB",
+              "dl": "https://bit.ly/3cHZyAl"
+            }
+          ]
+        },
+        {
+          "episodeno": "2",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "310 MB",
+              "dl": "https://bit.ly/2XVgZJy"
+            }
+          ]
+        },
+        {
+          "episodeno": "3",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "330 MB",
+              "dl": "https://bit.ly/3asegd2"
+            }
+          ]
+        },
+        {
+          "episodeno": "4",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "325 MB",
+              "dl": "https://bit.ly/3eMZscD"
+            }
+          ]
+        },
+        {
+          "episodeno": "5",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "335 MB",
+              "dl": "https://bit.ly/2VM0I76"
+            }
+          ]
+        },
+        {
+          "episodeno": "6",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "318 MB",
+              "dl": "https://bit.ly/34ZCs5E"
+            }
+          ]
+        },
+        {
+          "episodeno": "7",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "275 MB",
+              "dl": "https://bit.ly/2VMH9LP"
+            }
+          ]
+        },
+        {
+          "episodeno": "8",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "287 MB",
+              "dl": "https://bit.ly/2XTElPG"
+            }
+          ]
+        },
+        {
+          "episodeno": "9",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "307 MB",
+              "dl": "https://bit.ly/3eQZSyC"
+            }
+          ]
+        },
+        {
+          "episodeno": "10",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "300 MB",
+              "dl": "https://bit.ly/34Xhy75"
+            }
+          ]
+        },
+        {
+          "episodeno": "11",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "303 MB",
+              "dl": "https://bit.ly/2VMA8KR"
+            }
+          ]
+        },
+        {
+          "episodeno": "12",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "332 MB",
+              "dl": "https://bit.ly/2XUtN2F"
+            }
+          ]
+        },
+        {
+          "episodeno": "13",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "401 MB",
+              "dl": "https://bit.ly/2VO6CED"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
   {
   "name": "Space Force [HIN+ENG]",
   "image": "https://m.media-amazon.com/images/M/MV5BNWYwMzE2MGItOTYwYy00YmQyLWE0NGQtZWViMTU4ZTk4ZjQxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL50_SY1000_SX800_AL_.jpg",
@@ -154,48 +338,6 @@
                 "quality": "720p",
                 "size": "380 MB",
                 "dl": "https://firebasestorage.googleapis.com/v0/b/t-operative-273515.appspot.com/o/Update%20%2FB3taal%2F720%2FBetaal.S01E04.720p.WEB-DL.Hindi.DD5.1.x264.MSub.hdmovieshub.de.mkv?alt=media&token=73371f85-0d91-4968-a4bd-9a87411d1259"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Gullak",
-    "image": "https://m.media-amazon.com/images/M/MV5BOTg5N2NiMTgtZmI3ZS00ODBlLWFhZjgtYWNjZWFlYjk1ZjI3XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL50_SY1000_CR0,0,706,1000_AL_.jpg",
-    "seasons":[
-      {
-        "seasonno":"1",
-        "episodes":[
-          {
-            "episodeno":"- All in One",
-            "links":[
-              {
-                "quality":"720p",
-                "size":"1.4 GB",
-                "dl": "https://firebasestorage.googleapis.com/v0/b/green-link-272616.appspot.com/o/1%2FM%2FGullak%2FGullak.720p.HDRip.themoviesflix.in.mkv?alt=media&token=a56064de-b2c8-4e63-9135-ac70cd9d08af"
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Phone a Friend",
-    "image": "https://m.media-amazon.com/images/M/MV5BMGFjY2Q3YjktNTNmOS00ODMyLWI3MzUtY2YwM2RkMzM3M2Q0XkEyXkFqcGdeQXVyMTE2MjIwNDgz._V1_QL50_.jpg",
-    "seasons":[
-      {
-        "seasonno":"1",
-        "episodes":[
-          {
-            "episodeno":"- All in One",
-            "links":[
-              {
-                "quality":"720p",
-                "size":"950 MB",
-                "dl": "https://bit.ly/2XkKEdd"
               }
             ]
           }
@@ -2141,12 +2283,83 @@
       "episodes": 
       [
         {
-          "episodeno": "- All in One",
+          "episodeno": "1",
           "links": [
             {
-              "quality": "480p",
-              "size": "900 MB",
-              "dl": "https://bit.ly/2zt2t1M"
+              "quality": "720p",
+              "size": "263 MB",
+              "dl": "https://firebasestorage.googleapis.com/v0/b/light-lacing-247408.appspot.com/o/Bharatveer%2FLittle%20Things%20season.%202%2FLittle%20Things%20S02E01%20720p%20Hindi%20[Hubflix.in].mp4?alt=media&token=f622097b-fc15-4ac1-a4fa-b39458924240"
+  
+            }
+          ]
+        },
+        {
+          "episodeno": "2",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "236 MB",
+              "dl": "https://firebasestorage.googleapis.com/v0/b/light-lacing-247408.appspot.com/o/Bharatveer%2FLittle%20Things%20season.%202%2FLittle%20Things%20S02E02%20720p%20Hindi%20[hubflix.in].mp4?alt=media&token=a0f8fac0-ce8e-4be6-9a05-9417efbe8df8"
+            }
+          ]
+        },
+        {
+          "episodeno": "3",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "213 MB",
+              "dl": "https://firebasestorage.googleapis.com/v0/b/light-lacing-247408.appspot.com/o/Bharatveer%2FLittle%20Things%20season.%202%2FLittle%20Things%20S02E03%20720p%20Hindi%20[hubflix.in].mp4?alt=media&token=99a91967-3d9f-4207-b30c-8d612338794e"
+            }
+          ]
+        },
+        {
+          "episodeno": "4",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "244 MB",
+              "dl": "https://firebasestorage.googleapis.com/v0/b/light-lacing-247408.appspot.com/o/Bharatveer%2FLittle%20Things%20season.%202%2FLittle%20Things%20S02E04%20720p%20Hindi%20[hubflix.in].mp4?alt=media&token=0cda2dc9-83bd-4803-98cb-44058fd7252e"
+            }
+          ]
+        },
+        {
+          "episodeno": "5",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "243 MB",
+              "dl": "https://firebasestorage.googleapis.com/v0/b/light-lacing-247408.appspot.com/o/Bharatveer%2FLittle%20Things%20season.%202%2FLittle%20Things%20S02E05%20720p%20Hindi%20[hubflix.in].mp4?alt=media&token=8c7c6434-1d22-45a2-9486-09526a13f9bb"
+            }
+          ]
+        },
+        {
+          "episodeno": "6",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "212 MB",
+              "dl": "https://firebasestorage.googleapis.com/v0/b/light-lacing-247408.appspot.com/o/Bharatveer%2FLittle%20Things%20season.%202%2FLittle%20Things%20S02E06%20720p%20Hindi%20[hubflix.in].mp4?alt=media&token=68573e9b-91e4-4b44-8612-73e7d5a08161"
+            }
+          ]
+        },
+        {
+          "episodeno": "7",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "217 MB",
+              "dl": "https://firebasestorage.googleapis.com/v0/b/light-lacing-247408.appspot.com/o/Bharatveer%2FLittle%20Things%20season.%202%2FLittle%20Things%20S02E07%20720p%20Hindi%20[hubflix.in].mp4?alt=media&token=585a7b36-5161-4c8c-8dc7-475cc728ee6e"
+            }
+          ]
+        },
+        {
+          "episodeno": "8",
+          "links": [
+            {
+              "quality": "720p",
+              "size": "225 MB",
+              "dl": "https://firebasestorage.googleapis.com/v0/b/light-lacing-247408.appspot.com/o/Bharatveer%2FLittle%20Things%20season.%202%2FLittle%20Things%20S02E08%20720p%20Hindi%20[hubflix.in].mp4?alt=media&token=262578cc-df4a-455a-a2af-184464eb8c57"
             }
           ]
         }
@@ -3032,66 +3245,6 @@
                 "quality": "720p",
                 "size": "356 MB",
                 "dl": "https://firebasestorage.googleapis.com/v0/b/vicky-4a848.appspot.com/o/Update%20folder%20%2FMoney%20Heist%20S04%2FMoney.Heist.S04E08.720p.NF.WEB-DL.Dual-Audio.x265.HEVC-HDMoviesHUBz.in.mkv?alt=media&token=d4fee54b-c553-4296-bd95-362862bf30c7"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "seasonno":"2",
-        "episodes":[
-          {
-            "episodeno": "1-5",
-            "links":[
-              {
-                "quality": "720p",
-                "size": "790 MB",
-                "dl": "https://bit.ly/2A5UF68"
-              }
-            ]
-          },
-          {
-            "episodeno": "6-9",
-            "links":[
-              {
-                "quality": "720p",
-                "size": "651 MB",
-                "dl": "https://bit.ly/2Aafn4U"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "seasonno":"1",
-        "episodes":[
-          {
-            "episodeno": "1-4",
-            "links":[
-              {
-                "quality": "720p",
-                "size": "682 MB",
-                "dl": "https://bit.ly/3enzU4N"
-              }
-            ]
-          },
-          {
-            "episodeno": "5-9",
-            "links":[
-              {
-                "quality": "720p",
-                "size": "790 MB",
-                "dl": "https://bit.ly/2zr1Jdm"
-              }
-            ]
-          },
-          {
-            "episodeno": "10-13",
-            "links":[
-              {
-                "quality": "720p",
-                "size": "700 MB",
-                "dl": "https://bit.ly/3d0EzJn"
               }
             ]
           }
