@@ -1,51 +1,7 @@
 [{
   "name": "13 Reasons Why [HIN+ENG]",
   "image": "https://m.media-amazon.com/images/M/MV5BMDYzZTRlNGEtZDc2Mi00ZGNjLTlmZDAtMmVjMDZkOThiODEwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL50_SY1000_CR0,0,675,1000_AL_.jpg",
-  "seasons":[ {
-      "seasonno":"4",
-      "episodes": [
-        {
-          "episodeno": "1",
-          "links": [
-            {
-              "quality": "720p",
-              "size": "340 MB",
-              "dl": "https://firebasestorage.googleapis.com/v0/b/original-spider-278500.appspot.com/o/Update%2F13.Reason.why.S04%2F13.Reasons.Why.S04E01.720p.10bit.WEB-DL.Hin-Eng.x265.HEVC-HDMovieshub.de.mkv?alt=media&token=07d019e9-6542-4327-8ec4-eae83e9901c1"
-            }
-          ]
-        },
-        {
-          "episodeno": "2",
-          "links": [
-            {
-              "quality": "720p",
-              "size": "335 MB",
-              "dl": "https://firebasestorage.googleapis.com/v0/b/original-spider-278500.appspot.com/o/Update%2F13.Reason.why.S04%2F13.Reasons.Why.S04E02.720p.10bit.WEB-DL.Hin-Eng.x265.HEVC-HDMovieshub.de.mkv?alt=media&token=0472d630-54ef-4eee-a2fa-486f4a65a189"
-            }
-          ]
-        },
-        {
-          "episodeno": "3",
-          "links": [
-            {
-              "quality": "720p",
-              "size": "346 MB",
-              "dl": "https://firebasestorage.googleapis.com/v0/b/original-spider-278500.appspot.com/o/Update%2F13.Reason.why.S04%2F13.Reasons.Why.S04E03.720p.10bit.WEB-DL.Hin-Eng.x265.HEVC-HDMovieshub.de.mkv?alt=media&token=c620ed52-81b9-4bce-935a-d1c3099ced3f"
-            }
-          ]
-        },
-        {
-          "episodeno": "4",
-          "links": [
-            {
-              "quality": "720p",
-              "size": "334 MB",
-              "dl": "https://firebasestorage.googleapis.com/v0/b/original-spider-278500.appspot.com/o/Update%2F13.Reason.why.S04%2F13.Reasons.Why.S04E04.720p.10bit.WEB-DL.Hin-Eng.x265.HEVC-HDMovieshub.de.mkv?alt=media&token=d447d886-71c5-4e4e-8cd3-0775aa878e48"
-            }
-          ]
-        }
-      ]
-    },
+  "seasons":[ 
     {
       "seasonno":"3",
       "episodes": [
