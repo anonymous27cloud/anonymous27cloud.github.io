@@ -1,5 +1,42 @@
 [
   {
+    "name": "Gulabo Sitabo [LATEST]",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2E2NGQzNzQtNTVhMS00NjdhLTk3MzgtNDFkOTg2YTg1MmFkXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL50_SY1000_CR0,0,692,1000_AL_.jpg",
+    "links": [
+      {
+        "quality": "1080p",
+        "size": "3.2 GB",
+        "dl": "https://firebasestorage.googleapis.com/v0/b/beaming-figure-279305.appspot.com/o/Bollywood%2FGulabo%20Sitabo%2FHDMovieshub.de-%20Gulabo%20Sitabo%20720p%20Untouched.mkv?alt=media&token=3f3b74f3-022f-47dd-89fc-f9010c74a5f4"
+      },
+      {
+        "quality": "720p",
+        "size": "1.4 GB",
+        "dl": "https://firebasestorage.googleapis.com/v0/b/beaming-figure-279305.appspot.com/o/Bollywood%2FGulabo%20Sitabo%2FGulabo.Sitabo.2020.720p.AMZN.WEB-DL.DD%2B5.1.HDMovieshub.mkv?alt=media&token=e1c27b44-f4d8-42d9-bb19-d23a214f6ebc"
+      },
+      {
+        "quality": "720p HEVC",
+        "size": "920 MB",
+        "dl": "https://firebasestorage.googleapis.com/v0/b/beaming-figure-279305.appspot.com/o/Bollywood%2FGulabo%20Sitabo%2FHDMovieshub.de-%20Gulabo%20Sitabo%20576p.mkv?alt=media&token=fde8cf71-f707-4982-bbd0-7ecae2f4c804"
+      },
+      {
+        "quality": "480p",
+        "size": "500 MB",
+        "dl": "https://firebasestorage.googleapis.com/v0/b/beaming-figure-279305.appspot.com/o/Bollywood%2FGulabo%20Sitabo%2FGulabo.Sitabo.2020.480p.AMZN.WEB-DL.DD%2B5.1.HDMovieshub.de.mkv?alt=media&token=344fb489-1817-4d68-9af0-44ce138e2fc1"
+      }
+    ]
+  },
+  {
+    "name": "Choked: Paisa Bolta Hai",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2UxNGIzY2ItMDgzYi00NWZiLTliZmEtNWUyZTJhZDg1OTUwXkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_QL50_.jpg",
+    "links": [
+      {
+        "quality": "720p",
+        "size": "790 MB",
+        "dl": "https://firebasestorage.googleapis.com/v0/b/original-spider-278500.appspot.com/o/Update%2FBollywood%2F5jun%2FHDMovieshub.de%20-%20Choked%20-%20Paisa%20Bolta%20Hai.720p.mkv?alt=media&token=df7b08ed-5e35-4f48-ab95-61490df8d64c"
+      }
+    ]
+  },
+  {
     "name": "Cashback",
     "image": "https://m.media-amazon.com/images/M/MV5BZjhiZmYwMWEtZmZiOC00NDhhLWFhMjQtZmQ5Mjc0NjZhZjFmXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
     "links": [
@@ -21,17 +58,6 @@
       }
     ]
   },
-  {
-  "name": "Choked: Paisa Bolta Hai",
-  "image": "https://m.media-amazon.com/images/M/MV5BN2UxNGIzY2ItMDgzYi00NWZiLTliZmEtNWUyZTJhZDg1OTUwXkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_QL50_.jpg",
-  "links": [
-    {
-      "quality": "720p",
-      "size": "790 MB",
-      "dl": "https://firebasestorage.googleapis.com/v0/b/original-spider-278500.appspot.com/o/Update%2FBollywood%2F5jun%2FHDMovieshub.de%20-%20Choked%20-%20Paisa%20Bolta%20Hai.720p.mkv?alt=media&token=df7b08ed-5e35-4f48-ab95-61490df8d64c"
-    }
-  ]
-},
   {
   "name": "Zootopia [HIN+ENG]",
   "image": "https://m.media-amazon.com/images/M/MV5BOTMyMjEyNzIzMV5BMl5BanBnXkFtZTgwNzIyNjU0NzE@._V1_QL50_SY1000_SX675_AL_.jpg",
