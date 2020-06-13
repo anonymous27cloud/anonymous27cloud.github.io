@@ -1,6 +1,27 @@
 [
   {
-    "name": "Gulabo Sitabo [LATEST]",
+    "name": "Artemis Fowl [LATEST]",
+    "image": "https://bit.ly/3cY8Mbe",
+    "links": [
+      {
+        "quality": "1080p",
+        "size": "2.3 GB",
+        "dl": "https://dl.hdhub.workers.dev/0:/Artemis.Fowl.(2020).English.1080p.WEB-DL.DD5.1.ESubs.x264-HDHub4u.Monster.mkv"
+      },
+      {
+        "quality": "720p",
+        "size": "830 GB",
+        "dl": "https://dl.hdhub.workers.dev/0:/Artemis.Fowl.(2020).English.720p.WEB-DL.DD5.1.ESubs.x264-HDHub4u.Monster.mkv"
+      },
+      {
+        "quality": "480p",
+        "size": "300 MB",
+        "dl": "https://dl.hdhub.workers.dev/0:/Artemis.Fowl.(2020).English.480p.WEB-DL.ESubs.x264-HDHub4u.Monster.mkv"
+      }
+    ]
+  },
+  {
+    "name": "Gulabo Sitabo",
     "image": "https://m.media-amazon.com/images/M/MV5BN2E2NGQzNzQtNTVhMS00NjdhLTk3MzgtNDFkOTg2YTg1MmFkXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL50_SY1000_CR0,0,692,1000_AL_.jpg",
     "links": [
       {
