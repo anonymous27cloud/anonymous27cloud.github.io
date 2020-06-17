@@ -8,6 +8,7 @@
         "size": "2.3 GB",
         "dl": "https://dl.hdhub.workers.dev/0:/Artemis.Fowl.(2020).English.1080p.WEB-DL.DD5.1.ESubs.x264-HDHub4u.Monster.mkv"
       },
+      
       {
         "quality": "720p",
         "size": "830 GB",
@@ -20,6 +21,7 @@
       }
     ]
   },
+  
   {
     "name": "Gulabo Sitabo",
     "image": "https://m.media-amazon.com/images/M/MV5BN2E2NGQzNzQtNTVhMS00NjdhLTk3MzgtNDFkOTg2YTg1MmFkXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL50_SY1000_CR0,0,692,1000_AL_.jpg",
@@ -54,6 +56,17 @@
         "quality": "720p",
         "size": "790 MB",
         "dl": "https://firebasestorage.googleapis.com/v0/b/original-spider-278500.appspot.com/o/Update%2FBollywood%2F5jun%2FHDMovieshub.de%20-%20Choked%20-%20Paisa%20Bolta%20Hai.720p.mkv?alt=media&token=df7b08ed-5e35-4f48-ab95-61490df8d64c"
+      }
+    ]
+  },
+   {
+    "name": "Slumdog Millionaire",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmNjZWI3NzktYWI1Mi00OTAyLWJkNTYtMzUwYTFlZDA0Y2UwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL50_SY1000_CR0,0,675,1000_AL_.jpg",
+    "links": [
+      {
+        "quality": "720pBR",
+        "size": "450 MB",
+        "dl": "http://s1.dlserver.info/Movie/Slumdog.Millionaire.2008/Slumdog.Millionaire.2008.720p.BluRay.x265.mkv"
       }
     ]
   },
