@@ -1,6 +1,28 @@
 [
   {
-    "name": "Chaman Bahaar [LATEST]",
+    "name": "Bulbbul [LATEST]",
+    "image":"https://m.media-amazon.com/images/M/MV5BMGQzYzFkMDYtYTNmZi00MDQ0LWFjZjItZjE3NGJjNjllY2UxXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_QL50_SY1000_CR0,0,673,1000_AL_.jpg",
+    "links":[
+      {
+        "quality": "1080p",
+        "size": "2.2 GB",
+        "dl": "https://firebasestorage.googleapis.com/v0/b/bolly-c8e2f.appspot.com/o/bollywood%2F2020%2FBulbbul%20(2020)%2FBulbbul.2020.1080p.NF.WEB-DL.DDP5.1.x264-FilmyGod.mkv?alt=media&token=8b93c9e1-fdae-4e82-9f9a-c087846783d8"
+      },
+      
+      {
+        "quality": "720p",
+        "size": "1.1 GB",
+        "dl": "https://firebasestorage.googleapis.com/v0/b/bolly-c8e2f.appspot.com/o/bollywood%2F2020%2FBulbbul%20(2020)%2FBulbbul.2020.720p.NF.WEB-DL.DDP5.1.x264-FilmyGod.mkv?alt=media&token=f8d3f72c-68b5-48dc-930f-bd2de3422b7e"
+      },
+      {
+        "quality": "480p",
+        "size": "494 MB",
+        "dl": "https://firebasestorage.googleapis.com/v0/b/bolly-c8e2f.appspot.com/o/bollywood%2F2020%2FBulbbul%20(2020)%2FBulbbul.2020.480p.NF.WEB-DL.x264-FilmyGod.mkv?alt=media&token=efcd224d-a6fa-4efd-9744-bc436d6f9b3c"
+      }
+    ]
+  },
+  {
+    "name": "Chaman Bahaar",
     "image":"https://m.media-amazon.com/images/M/MV5BNjU1ODNkNjUtNzMyMy00YWRjLTg5ODItMmQzNTIyNWZhMTg4XkEyXkFqcGdeQXVyNzI0NzQyNTk@._V1_QL50_SY1000_CR0,0,717,1000_AL_.jpg",
     "links":[
       {
@@ -8,6 +30,7 @@
         "size": "2 GB",
         "dl": "https://firebasestorage.googleapis.com/v0/b/beaming-figure-279305.appspot.com/o/Bollywood%2F19.june%2FHDMovieshub.de.Chaman.Bahaar.2020.1080p.NF.WEB-DL.DD%2B5.1.x264.mkv?alt=media&token=9986cdf8-60f6-4ab3-8283-0d69f9a0f68f"
       },
+      
       {
         "quality": "720p",
         "size": "1 GB",
